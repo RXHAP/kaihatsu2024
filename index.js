@@ -1,9 +1,6 @@
 // 変数とか要素の指定
 var aj = new XMLHttpRequest;
 var mainContent = document.getElementById("main");
-var homeButton = document.getElementById("top");
-var accessButton = document.getElementById("access");
-var summaryButton = document.getElementById("summary");
 
 // TODO: ブラウザの戻るボタンで戻るとQueryは変わるけど中身が変わらない
 
