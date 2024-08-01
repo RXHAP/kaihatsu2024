@@ -53,9 +53,35 @@ document.addEventListener('DOMContentLoaded',function(){
                 if (aj.status === 200 && aj.readyState === 4) {
                     //console.log(aj.responseText);
                     mainContent.innerHTML = aj.responseText;
-                    history.pushState('', "開智発表会2024", "./index.html?p="+query_title);
+                    history.pushState(query_title, "開智発表会2024", "./index.html?p="+query_title);
                 }
             }
         },false);
     }
 },false);
+
+
+// ブラウザの戻るボタンの検知で画面更新
+window.addEventListener("popstate", function(e) {
+    if (e.state != "") {
+        console.log("back to "+e.state);
+        aj.open("GET", "./mainContent/"+e.state+".html");
+        aj.send();
+        aj.onreadystatechange = function() {
+            if (aj.status === 200 && aj.readyState === 4) {
+                //console.log(aj.responseText);
+                mainContent.innerHTML = aj.responseText;
+            }
+        }
+    }
+    else {
+        aj.open("GET", "./mainContent/top.html");
+        aj.send();
+        aj.onreadystatechange = function() {
+            if (aj.status === 200 && aj.readyState === 4) {
+                //console.log(aj.responseText);
+                mainContent.innerHTML = aj.responseText;
+            }
+        }
+    }
+})
