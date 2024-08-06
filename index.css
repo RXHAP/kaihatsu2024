@@ -1,5 +1,6 @@
 header {
     background-color: aqua;
+    height: 40px;
 }
 
 .main {
@@ -9,3 +10,5 @@ header {
 .maincol {
     background-color: yellow;
 }
+
+
