@@ -13,21 +13,19 @@ body {
 .main {
     color: white;
     padding: 7%;
+    min-height: 200vh;
 }
 
 .maincol {
     background-color: yellow;
 }
 
-.head {
-    border: 8px single #afafaf;
-    height: 100%;
+header {
+    display: none;
+    position: fixed;
     width: 100%;
 }
 
-header {
-    padding: 3px;
-}
 
 #touch {
     color: white;
