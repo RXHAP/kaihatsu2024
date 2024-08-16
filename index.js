@@ -57,11 +57,12 @@ for(var i = 0; i < btns.length; i++){
 }
 */
 
-// ヘッダーのaタグを無効化してajaxを使うゴリ押し実装
+// ヘッダーのaタグを無効化してAjaxを使うゴリ押し実装
 $("a").click(function(event){
-    event.preventDefault();
-    var loadcontent = $(this).attr("id");
+    event.preventDefault(); //イベントの無効化
+    var loadcontent = $(this).attr("id"); //ID取得
     console.log(loadcontent);
+    // ここからAjax
     var aj = new XMLHttpRequest;
     aj.open("GET", "./mainContent/"+loadcontent+".html");
     aj.send();
