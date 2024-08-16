@@ -1,11 +1,39 @@
-header {
-    background-color: aqua;
+html {
+    min-height: 100%;
+    padding: 0px;
+}
+
+body {
+    background-color:hsla(0,0%,0%,1);
+    background: radial-gradient(closest-side, #404040, #000);
+    min-height: 100%;
+    padding: 0px;
 }
 
 .main {
-    background-color: azure;
+    color: white;
+    padding: 7%;
+    min-height: 200vh;
 }
 
 .maincol {
     background-color: yellow;
+}
+
+header {
+    display: none;
+    position: fixed;
+    width: 100%;
+}
+
+
+#touch {
+    color: white;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+#maincontainer {
+    min-height: 100%;
 }

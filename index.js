@@ -1,8 +1,6 @@
 // 変数とか要素の指定
-var aj = new XMLHttpRequest;
 var mainContent = document.getElementById("main");
-
-// TODO: ブラウザの戻るボタンで戻るとQueryは変わるけど中身が変わらない
+var aj = new XMLHttpRequest;
 
 // Queryの処理 もうちょっと綺麗に書きたいね
 var queryStr = window.location.search.slice(1);
@@ -39,31 +37,51 @@ else {
     }
 }
 
-
-
+/*
 // EventListener(Headerのボタン)
-document.addEventListener('DOMContentLoaded',function(){
-    var btns = document.querySelectorAll('.head');
-    for(var i = 0; i < btns.length; i++){
-        btns[i].addEventListener('click',function(){
-            aj.open("GET", "./mainContent/"+this.id+".html");
-            aj.send();
-            var query_title = this.id;
-            aj.onreadystatechange = function() {
-                if (aj.status === 200 && aj.readyState === 4) {
-                    //console.log(aj.responseText);
-                    mainContent.innerHTML = aj.responseText;
-                    history.pushState(query_title, "開智発表会2024", "./index.html?p="+query_title);
-                }
+var btns = document.querySelectorAll('.head');
+for(var i = 0; i < btns.length; i++){
+    btns[i].addEventListener('click',function(){
+        var aj = new XMLHttpRequest;
+        aj.open("GET", "./mainContent/"+this.id+".html");
+        aj.send();
+        var query_title = this.id;
+        aj.onreadystatechange = function() {
+            if (aj.status === 200 && aj.readyState === 4) {
+                //console.log(aj.responseText);
+                mainContent.innerHTML = aj.responseText;
+                history.pushState(query_title, "開智発表会2024", "./index.html?p="+query_title);
             }
-        },false);
+        }
+    },false);
+}
+*/
+
+// ヘッダーのaタグを無効化してAjaxを使うゴリ押し実装
+$("a").click(function(event){
+    event.preventDefault(); //イベントの無効化
+    var loadcontent = $(this).attr("id"); //ID取得
+    console.log(loadcontent);
+    // ここからAjax
+    var aj = new XMLHttpRequest;
+    aj.open("GET", "./mainContent/"+loadcontent+".html");
+    aj.send();
+    aj.onreadystatechange = function() {
+        if (aj.status === 200 && aj.readyState === 4) {
+            //console.log(aj.responseText);
+            mainContent.innerHTML = aj.responseText;
+            history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
+            scrollTo(0, 0);
+        }
     }
-},false);
+});
+
 
 
 // ブラウザの戻るボタンの検知で画面更新
 window.addEventListener("popstate", function(e) {
-    if (e.state != "") {
+    //console.log(e.state);
+    if (e.state != null) {
         console.log("back to "+e.state);
         aj.open("GET", "./mainContent/"+e.state+".html");
         aj.send();
@@ -85,3 +103,13 @@ window.addEventListener("popstate", function(e) {
         }
     }
 })
+
+// スクロールを検知してヘッダーをなんかいい感じにするやつ
+$(window).scroll(function () {
+    //console.log($(this).scrollTop());
+    if ($(this).scrollTop() > 100) {
+        $('header').fadeIn();
+    } else {
+        $('header').fadeOut();
+    }
+});
