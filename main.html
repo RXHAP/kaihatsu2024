@@ -1,40 +1,37 @@
 <!DOCTYPE html>
-<html lang="jp">
-
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
-    <link rel="stylesheet" href="index.css">
-    <title>開智発表会2024 テストサイト</title>
+    <title>Document</title>
 </head>
-
 <body>
     <!-- ここからHeader -->
     <header>
         <!-- Bootstrap5のおまじない 画面上部のナビゲーション -->
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" id="top" href="#">開智発表会</a>
+                <a class="navbar-brand" href="./main.html?p=top">開智発表会</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#Navbar" aria-controls="Navbar" aria-expanded="false" aria-label="ナビゲーションの切り替え">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="Navbar">
                     <ul class="navbar-nav me-auto mb-2 mb-sm-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="summary" href="#">概要</a>
+                            <a class="nav-link active head" aria-current="page" href="./main.html?p=summary">概要</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="access" href="#">アクセス</a>
+                            <a class="nav-link active head" aria-current="page" href="./main.html?p=access">アクセス</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="notice" href="#">お知らせ</a>
+                            <a class="nav-link active head" aria-current="page" href="./main.html?p=notice">お知らせ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="project" href="#">企画・探究</a>
+                            <a class="nav-link active head" aria-current="page" href="./main.html?p=project">企画・探究</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="timetable" href="#">タイムテーブル</a>
+                            <a class="nav-link active head" aria-current="page" href="./main.html?p=timetable">タイムテーブル</a>
                         </li>
                     </ul>
                 </div>
@@ -51,15 +48,7 @@
         </div>
     </div>
 
-
-    <!--
-    使っている(もしくは予定)の外部のプログラム
-    ・jQuery
-    ・Bootstrap
-    -->
     <script src=" https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js "></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
-    <!-- 自分で書いたJSの読み込み -->
-    <script src="./index.js"></script>
 </body>
 </html>
