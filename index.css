@@ -8,6 +8,9 @@ body {
     background: radial-gradient(closest-side, #404040, #000);
     min-height: 100%;
     padding: 0px;
+    font-family: "Noto Sans JP", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 .main {
