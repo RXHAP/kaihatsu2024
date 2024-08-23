@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    display: none;
+    /*display: none; */
     position: fixed;
     width: 100%;
 }

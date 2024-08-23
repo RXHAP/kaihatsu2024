@@ -131,14 +131,16 @@ window.addEventListener("popstate", function(e) {
 })
 
 // スクロールを検知してヘッダーをなんかいい感じにするやつ
+/*
 $(window).scroll(function () {
     //console.log($(this).scrollTop());
-    if ($(this).scrollTop() > 100) {
+    if ($(this).scrollTop() >= 100) {
         $('header').fadeIn();
     } else {
         $('header').fadeOut();
     }
 });
+*/
 
 
 $(function(){
