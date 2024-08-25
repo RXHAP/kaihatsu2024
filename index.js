@@ -1,3 +1,7 @@
+function sleepSetTimeout(ms, callback) {
+    setTimeout(callback, ms);
+}
+
 // 変数とか要素の指定
 var mainContent = document.getElementById("main");
 var aj = new XMLHttpRequest;
@@ -58,19 +62,41 @@ for(var i = 0; i < btns.length; i++){
 */
 
 // ヘッダーのaタグを無効化してAjaxを使うゴリ押し実装
-$("a").click(function(event){
+$(".nav-link").click(function(event){
     event.preventDefault(); //イベントの無効化
     var loadcontent = $(this).attr("id"); //ID取得
-    console.log(loadcontent);
-    // ここからAjax
+
+    if (loadcontent != "constructing") {
+        console.log(loadcontent);
+        // ここからAjax
+        var aj = new XMLHttpRequest;
+        aj.open("GET", "./mainContent/"+loadcontent+".html");
+        aj.send();
+        aj.onreadystatechange = function() {
+            if (aj.status === 200 && aj.readyState === 4) {
+                //console.log(aj.responseText);
+                mainContent.innerHTML = aj.responseText;
+                history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
+                scrollTo(0, 0);
+            }
+        }
+    }
+    else {
+        console.log("建設中...")
+        alert("このページは準備中です。")
+    }
+});
+
+$(".navbar-brand").click(function(event){
+    event.preventDefault();
     var aj = new XMLHttpRequest;
-    aj.open("GET", "./mainContent/"+loadcontent+".html");
+    aj.open("GET", "./mainContent/top.html");
     aj.send();
     aj.onreadystatechange = function() {
         if (aj.status === 200 && aj.readyState === 4) {
             //console.log(aj.responseText);
             mainContent.innerHTML = aj.responseText;
-            history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
+            history.pushState("top", "開智発表会2024", "./index.html?p=top");
             scrollTo(0, 0);
         }
     }
@@ -105,11 +131,19 @@ window.addEventListener("popstate", function(e) {
 })
 
 // スクロールを検知してヘッダーをなんかいい感じにするやつ
+/*
 $(window).scroll(function () {
     //console.log($(this).scrollTop());
-    if ($(this).scrollTop() > 100) {
+    if ($(this).scrollTop() >= 100) {
         $('header').fadeIn();
     } else {
         $('header').fadeOut();
     }
+});
+*/
+
+
+$(function(){
+    sleepSetTimeout(1000, () => $(".title").animate({opacity: 0,}, 1000));
+    sleepSetTimeout(2000, () => $(".title").remove())
 });

@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    display: none;
+    /*display: none; */
     position: fixed;
     width: 100%;
 }
@@ -36,4 +36,25 @@ header {
 
 #maincontainer {
     min-height: 100%;
+}
+
+#headlogo {
+    height: 35px;
+}
+
+.title {
+    position: fixed;
+    z-index: 100;
+    background-color: #000;
+    height: 100vh;
+    width: 100vw;
+}
+
+.titlelogo {
+    position: fixed;
+    height: 70vh;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%)
+               translateY(-50%);
 }
