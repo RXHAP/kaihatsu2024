@@ -15,15 +15,17 @@
 </head>
 
 <body>
+    <!-- JavaScript無効時のメッセージ -->
+    <noscript>
+        <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
+    </noscript>
+
     <!-- ここからHeader -->
-    <header>
-        <noscript>
-            <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
-        </noscript>
+    <header style="position:fixed; width:100%; z-index:99;">
         <!-- Bootstrap5のおまじない 画面上部のナビゲーション -->
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" id="top" href="#"><img src="./img/logo250.png" alt="ロゴ" id="headlogo">開智発表会</a>
+                <a class="navbar-brand" id="top" href="#"><img src="./img/logo250.png" alt="ロゴ" style="height: 35px;">開智発表会</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#Navbar" aria-controls="Navbar" aria-expanded="false" aria-label="ナビゲーションの切り替え">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -50,17 +52,12 @@
         </nav>
     </header>
 
-    <span class="title"><img src="./img/logo500.png" alt="ロゴ" class="titlelogo"></span>
+    <span class="title" style="position:fixed; z-index: 100; background-color: #000; height: 100vh; width: 100vw;">
+        <img src="./img/logo500.png" alt="ロゴ" class="titlelogo" style="position:relative; height:min(70vh, 90vw); left:50%; top:50%; transform:translateX(-50%)translateY(-50%);">
+    </span>
 
     <!-- ここから本体(の枠組) -->
-    <div class="container-fluid main">
-        <div class="row">
-            <div class="col " id="main">
-
-            </div>
-        </div>
-    </div>
-
+    <div id="main" style="color:white; padding:7%; padding-top:80px; min-height:200vh; width:100%;"></div>
 
     <!--
     使っている(もしくは予定)の外部のプログラム
