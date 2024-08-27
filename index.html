@@ -15,11 +15,6 @@
 </head>
 
 <body>
-    <!-- JavaScript無効時のメッセージ -->
-    <noscript>
-        <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
-    </noscript>
-
     <!-- ここからHeader -->
     <header style="position:fixed; width:100%; z-index:99;">
         <!-- Bootstrap5のおまじない 画面上部のナビゲーション -->
@@ -52,12 +47,27 @@
         </nav>
     </header>
 
-    <span class="title" style="position:fixed; z-index: 100; background-color: #000; height: 100vh; width: 100vw;">
+    <span class="title" style="position:fixed; z-index:100; background-color:#000; height:100vh; width:100vw;">
+        <!-- JavaScript無効時のメッセージ -->
+        <noscript>
+            <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
+        </noscript>
         <img src="./img/logo500.png" alt="ロゴ" class="titlelogo" style="position:relative; height:min(70vh, 90vw); left:50%; top:50%; transform:translateX(-50%)translateY(-50%);">
     </span>
 
     <!-- ここから本体(の枠組) -->
     <div id="main" style="color:white; padding:7%; padding-top:80px; min-height:200vh; width:100%;"></div>
+
+    <footer>
+        <div class="container-fluid" style="background-color:#454545; color:white;">
+            <div class="row justify-content-center text-center">
+                <div class="col-12">
+                    <p>Copyright © 2024 第28回開智発表会 All Rights Reserved.</p>
+                    <p>本サイトでは、サイトの利用状況を把握するために、Google社の提供するアクセス解析ツール「Googleアナリティクス」を使用しています。<br>アナリティクスは、Cookieを使用して利用者のアクセス情報を収集します。<br>収集した情報は、Google社のプライバシーポリシーに基づいて管理されます。</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <!--
     使っている(もしくは予定)の外部のプログラム

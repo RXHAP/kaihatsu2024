@@ -41,25 +41,6 @@ else {
     }
 }
 
-/*
-// EventListener(Headerのボタン)
-var btns = document.querySelectorAll('.head');
-for(var i = 0; i < btns.length; i++){
-    btns[i].addEventListener('click',function(){
-        var aj = new XMLHttpRequest;
-        aj.open("GET", "./mainContent/"+this.id+".html");
-        aj.send();
-        var query_title = this.id;
-        aj.onreadystatechange = function() {
-            if (aj.status === 200 && aj.readyState === 4) {
-                //console.log(aj.responseText);
-                mainContent.innerHTML = aj.responseText;
-                history.pushState(query_title, "開智発表会2024", "./index.html?p="+query_title);
-            }
-        }
-    },false);
-}
-*/
 
 // ヘッダーのaタグを無効化してAjaxを使うゴリ押し実装
 $(".nav-link").click(function(event){
