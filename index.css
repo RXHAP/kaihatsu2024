@@ -12,6 +12,10 @@ body {
     font-style: normal;
 }
 
+strong {
+    color: #ffff85;
+}
+
 .bg-lighter {
     background: radial-gradient(closest-side, #404040, #000);
 }
@@ -26,4 +30,13 @@ h2 {
 
 h3 {
     margin-top: 50px;
+}
+
+.underline {
+    width: 100%;
+    border-bottom: 2px solid white;
+}
+
+.smaller {
+    width: 95%;
 }
