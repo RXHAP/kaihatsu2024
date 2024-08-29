@@ -3,6 +3,24 @@ function sleepSetTimeout(ms, callback) {
     setTimeout(callback, ms);
 }
 
+// お知らせページのお知らせ取得関数
+async function loadCSVData() {
+    const response = await fetch('./notice.csv');
+    const text = await response.text();
+    const data = text.trim().split('\n').map(line => line.split(',').map(x => x.trim()));
+    var articles = "";
+    for (let i = 0; i < data.length; i++) {
+        articles += `
+            <article style="margin-bottom:80px;">
+                <h2 class="underline no-space">`+data[i][0]+`</h2>
+                <p>`+data[i][1]+`</p>
+            </article>
+        `;
+        console.log(data[i][0]+":"+data[i][1])
+    }
+    document.getElementById('detail').innerHTML = articles;
+}
+
 // 変数とか要素の指定
 var mainContent = document.getElementById("main");
 var aj = new XMLHttpRequest;
@@ -41,6 +59,9 @@ else {
             //console.log(aj.responseText);
             mainContent.innerHTML = aj.responseText;
             page = queries.p;
+            if (page == "notice") {
+                loadCSVData();
+            }
         }
     }
 }
@@ -64,6 +85,9 @@ $(".nav-link").click(function(event){
                 history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
                 scrollTo(0, 0);
                 page = loadcontent;
+                if (page == "notice") {
+                    loadCSVData();
+                }
             }
         }
     }
@@ -104,6 +128,9 @@ window.addEventListener("popstate", function(e) {
                 //console.log(aj.responseText);
                 mainContent.innerHTML = aj.responseText;
                 page = e.state;
+                if (page == "notice") {
+                    loadCSVData();
+                }
             }
         }
     }

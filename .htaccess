@@ -1,5 +1,5 @@
-# キャッシュとの整合性の確認を義務付け
+# キャッシュ禁止
 <FilesMatch "\.(css|js|jpg|jpeg|gif|png|svg|svgz|webp|ico|bmp|woff|woff2|ttf|otf|html|csv|json)$">
-Header set Cache-Control no-cache
-Header set Pragma no-cache
+Header set Cache-Control no-store
+Header set Pragma no-store
 </FilesMatch>
