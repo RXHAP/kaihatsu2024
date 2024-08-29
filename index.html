@@ -15,30 +15,25 @@
 </head>
 
 <body>
-    <!-- JavaScript無効時のメッセージ -->
-    <noscript>
-        <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
-    </noscript>
-
     <!-- ここからHeader -->
     <header style="position:fixed; width:100%; z-index:99;">
         <!-- Bootstrap5のおまじない 画面上部のナビゲーション -->
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" id="top" href="#"><img src="./img/logo250.png" alt="ロゴ" style="height: 35px;">開智発表会</a>
+                <a class="navbar-brand" id="top" href="#"><img src="./img/logo1500.png" alt="ロゴ" style="height: 35px;">開智発表会</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#Navbar" aria-controls="Navbar" aria-expanded="false" aria-label="ナビゲーションの切り替え">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="Navbar">
                     <ul class="navbar-nav me-auto mb-2 mb-sm-0">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="summary" href="#">概要</a>
+                            <a class="nav-link active" aria-current="page" id="summary" href="./index.html?p=summary">概要</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="access" href="#">アクセス</a>
+                            <a class="nav-link active" aria-current="page" id="access" href="./index.html?p=access">アクセス</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" id="notice" href="#">お知らせ</a>
+                            <a class="nav-link active" aria-current="page" id="notice" href="./index.html?p=notice">お知らせ</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" id="constructing" href="#">企画・探究</a>
@@ -46,18 +41,36 @@
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page" id="constructing" href="#">タイムテーブル</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" id="constructing" href="#">校内MAP</a>
+                        </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
 
-    <span class="title" style="position:fixed; z-index: 100; background-color: #000; height: 100vh; width: 100vw;">
-        <img src="./img/logo500.png" alt="ロゴ" class="titlelogo" style="position:relative; height:min(70vh, 90vw); left:50%; top:50%; transform:translateX(-50%)translateY(-50%);">
+    <span class="title" style="position:fixed; z-index:100; background-color:#000; height:100vh; width:100vw;">
+        <!-- JavaScript無効時のメッセージ -->
+        <noscript>
+            <p style="color: white;">JavaScriptが無効のため、コンテンツが読み込めません。</p>
+        </noscript>
+        <img src="./img/logo1500.png" alt="ロゴ" class="titlelogo" style="position:relative; height:min(70vh, 90vw); left:50%; top:50%; transform:translateX(-50%)translateY(-50%);">
     </span>
 
     <!-- ここから本体(の枠組) -->
-    <div id="main" style="color:white; padding:7%; padding-top:80px; min-height:200vh; width:100%;"></div>
+    <div id="main" style="color:white; padding:7%; padding-top:80px; min-height:100vh; width:100%;"></div>
+
+    <footer>
+        <div class="container-fluid" style="background-color:#454545; color:white;">
+            <div class="row justify-content-center text-center">
+                <div class="col-12">
+                    <p>Copyright © 2024 第28回開智発表会 All Rights Reserved.</p>
+                    <p>本サイトでは、サイトの利用状況を把握するために、Google社の提供するアクセス解析ツール「Googleアナリティクス」を使用しています。<br>アナリティクスは、Cookieを使用して利用者のアクセス情報を収集します。<br>収集した情報は、Google社のプライバシーポリシーに基づいて管理されます。</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <!--
     使っている(もしくは予定)の外部のプログラム
@@ -67,6 +80,6 @@
     <script src=" https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js "></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
     <!-- 自分で書いたJSの読み込み -->
-    <script src="./index.js"></script>
+    <script src="./index.js?1"></script>
 </body>
 </html>
