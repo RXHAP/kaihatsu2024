@@ -96,7 +96,6 @@ $(".nav-link").click(function(event){
         alert("このページは準備中です。")
     }
 });
-
 // 開智発表会の文字と左上のロゴだけはclassが異なる 多分もっといい方法ある
 $(".navbar-brand").click(function(event){
     event.preventDefault();
@@ -147,22 +146,11 @@ window.addEventListener("popstate", function(e) {
     }
 })
 
-// スクロールを検知してヘッダーをなんかいい感じにするやつ 結局つかわない
-/*
-$(window).scroll(function () {
-    //console.log($(this).scrollTop());
-    if ($(this).scrollTop() >= 100) {
-        $('header').fadeIn();
-    } else {
-        $('header').fadeOut();
-    }
-});
-*/
 
 // ページを開いた時のアニメーション
 $(function(){
-    sleepSetTimeout(1000, () => $(".title").animate({opacity: 0,}, 1000));
-    sleepSetTimeout(2000, () => $(".title").remove())
+    sleepSetTimeout(5000, () => $(".title").animate({opacity: 0,}, 1000));
+    sleepSetTimeout(6000, () => $(".title").remove())
 });
 
 
@@ -173,7 +161,7 @@ function showRestTime() {
         var time = 0;
         const now = new Date();
         var goal;
-        console.log(now);
+        //console.log(now);
         // 今の時間で場合分け
         if (now.getTime() < new Date(2024, 8, 14, "9", "0", "0").getTime()) {
             document.getElementById('word').textContent = "開智発表会 開催"
