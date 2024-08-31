@@ -177,8 +177,8 @@ window.addEventListener("popstate", function(e) {
 
 // ページを開いた時のアニメーション
 $(function(){
-    sleepSetTimeout(5000, () => $(".title").animate({opacity: 0,}, 1000));
-    sleepSetTimeout(6000, () => $(".title").remove())
+    sleepSetTimeout(4000, () => $(".title").animate({opacity: 0,}, 1000));
+    sleepSetTimeout(5000, () => $(".title").remove())
 });
 
 
