@@ -42,7 +42,7 @@ h3 {
 
 .titlelogo {
     transform-origin:48.5% 0 0;
-    animation: 2s linear 1.5s infinite normal none running logorotate;
+    animation: 2s linear 0.5s infinite normal none running logorotate;
 }
 
 @keyframes logorotate {
