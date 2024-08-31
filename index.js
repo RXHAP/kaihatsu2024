@@ -99,8 +99,8 @@ $(".nav-link").click(function(event){
         }
     }
     else {
-        console.log("建設中...")
-        alert("このページは準備中です。")
+        console.log("準備中...")
+        alert("未確定の情報のため閲覧できません。もうしばらくお待ちください。")
     }
 });
 // 開智発表会の文字と左上のロゴだけはclassが異なる 多分もっといい方法ある
