@@ -79,14 +79,21 @@ $(".nav-link").click(function(event){
         aj.open("GET", "./mainContent/"+loadcontent+".html");
         aj.send();
         aj.onreadystatechange = function() {
-            if (aj.status === 200 && aj.readyState === 4) {
-                //console.log(aj.responseText);
-                mainContent.innerHTML = aj.responseText;
-                history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
-                scrollTo(0, 0);
-                page = loadcontent;
-                if (page == "notice") {
-                    loadCSVData();
+            if (aj.status === 200) {
+                if (aj.readyState === 3) {
+                    mainContent.innerHTML = `
+                    <p>loading...</p>
+                    `
+                }
+                else if (aj.readyState === 4) {
+                    //console.log(aj.responseText);
+                    mainContent.innerHTML = aj.responseText;
+                    history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
+                    scrollTo(0, 0);
+                    page = loadcontent;
+                    if (page == "notice") {
+                        loadCSVData();
+                    }
                 }
             }
         }
@@ -103,12 +110,19 @@ $(".navbar-brand").click(function(event){
     aj.open("GET", "./mainContent/top.html");
     aj.send();
     aj.onreadystatechange = function() {
-        if (aj.status === 200 && aj.readyState === 4) {
-            //console.log(aj.responseText);
-            mainContent.innerHTML = aj.responseText;
-            history.pushState("top", "開智発表会2024", "./index.html?p=top");
-            scrollTo(0, 0);
-            page = "top";
+        if (aj.status === 200) {
+            if (aj.readyState === 3) {
+                mainContent.innerHTML = `
+                <p>loading...</p>
+                `
+            }
+            else if (aj.readyState === 4) {
+                //console.log(aj.responseText);
+                mainContent.innerHTML = aj.responseText;
+                history.pushState("top", "開智発表会2024", "./index.html?p=top");
+                scrollTo(0, 0);
+                page = "top";
+            }
         }
     }
 });
@@ -123,12 +137,19 @@ window.addEventListener("popstate", function(e) {
         aj.open("GET", "./mainContent/"+e.state+".html");
         aj.send();
         aj.onreadystatechange = function() {
-            if (aj.status === 200 && aj.readyState === 4) {
-                //console.log(aj.responseText);
-                mainContent.innerHTML = aj.responseText;
-                page = e.state;
-                if (page == "notice") {
-                    loadCSVData();
+            if (aj.status === 200) {
+                if (aj.readyState === 3) {
+                    mainContent.innerHTML = `
+                    <p>loading...</p>
+                    `
+                }
+                else if (aj.readyState === 4) {
+                    //console.log(aj.responseText);
+                    mainContent.innerHTML = aj.responseText;
+                    page = e.state;
+                    if (page == "notice") {
+                        loadCSVData();
+                    }
                 }
             }
         }
@@ -137,10 +158,17 @@ window.addEventListener("popstate", function(e) {
         aj.open("GET", "./mainContent/top.html");
         aj.send();
         aj.onreadystatechange = function() {
-            if (aj.status === 200 && aj.readyState === 4) {
-                //console.log(aj.responseText);
-                mainContent.innerHTML = aj.responseText;
-                page = "top"
+            if (aj.status === 200) {
+                if (aj.readyState === 3) {
+                    mainContent.innerHTML = `
+                    <p>loading...</p>
+                    `
+                }
+                else if (aj.readyState === 4) {
+                    //console.log(aj.responseText);
+                    mainContent.innerHTML = aj.responseText;
+                    page = "top"
+                }
             }
         }
     }
