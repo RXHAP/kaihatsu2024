@@ -1,11 +1,6 @@
-// なんかいい感じに待ち時間を作る関数
-function sleepSetTimeout(ms, callback) {
-    setTimeout(callback, ms);
-}
-
 // お知らせページのお知らせ取得関数
 async function loadCSVData() {
-    const response = await fetch('./notice.csv');
+    const response = await fetch('/notice.csv');
     const text = await response.text();
     const data = text.trim().split('\n').map(line => line.split(',').map(x => x.trim()));
     var articles = "";
@@ -21,50 +16,44 @@ async function loadCSVData() {
     document.getElementById('detail').innerHTML = articles;
 }
 
+
 // 変数とか要素の指定
 var mainContent = document.getElementById("main");
 var aj = new XMLHttpRequest;
 var page = "none"
 
-// Queryの処理 もうちょっと綺麗に書きたいね
-var queryStr = window.location.search.slice(1);
-var queries = {};
-// Queryがないときにundefinedにならないように
-if (!queryStr) {
-    // リンク置き換え & Ajax
-    history.replaceState('', "トップ - 開智発表会2024", "./index.html?p=top");
-    aj.open("GET", "./mainContent/top.html");
-    aj.send();
-    aj.onreadystatechange = function() {
-        if (aj.status === 200 && aj.readyState === 4) {
-            //console.log(aj.responseText);
-            mainContent.innerHTML = aj.responseText;
-            page = "top";
-        }
-    }
+var loadcontent = location.pathname.slice(1);
+if (loadcontent == "") {
+    loadcontent = "top"
 }
 else {
-    // Queryを辞書に格納
-    queryStr.split('&').forEach(function(queryStr) {
-        // = で分割してkey,valueを格納
-        var queryArr = queryStr.split('=');
-        queries[queryArr[0]] = queryArr[1];
-    });
-    //console.log(queries.p);
-    // ここからAjax、もう慣れたね(コピペ)
-    aj.open("GET", "./mainContent/"+queries.p+".html");
-    aj.send();
-    aj.onreadystatechange = function() {
-        if (aj.status === 200 && aj.readyState === 4) {
-            //console.log(aj.responseText);
-            mainContent.innerHTML = aj.responseText;
-            page = queries.p;
-            if (page == "notice") {
+    loadcontent = loadcontent.slice(0, -1);
+}
+mainContent.innerHTML = "<p>loading...</p>";
+$.ajax({
+    url: "/mainContent/"+loadcontent+".html",
+    dataType: "html",
+    cache: false,
+    success: function (res) {
+        //console.log(res);
+        mainContent.innerHTML = "";
+        var newcontent = document.createElement("div");
+        newcontent.innerHTML = res;
+        mainContent.appendChild(newcontent);
+        if (loadcontent == "top") {
+            history.pushState("top", "開智発表会2024", "/");
+        }
+        else {
+            history.pushState(loadcontent, "開智発表会2024", "/"+loadcontent+"/");
+            if (location.pathname == "/notice/") {
                 loadCSVData();
             }
         }
+    },
+    error: function(){
+        mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
     }
-}
+});
 
 
 // ヘッダーのaタグを無効化してAjaxを使うゴリ押し実装
@@ -74,57 +63,57 @@ $(".nav-link").click(function(event){
 
     if (loadcontent != "constructing") {
         console.log(loadcontent);
-        // ここからAjax
-        var aj = new XMLHttpRequest;
-        aj.open("GET", "./mainContent/"+loadcontent+".html");
-        aj.send();
-        aj.onreadystatechange = function() {
-            if (aj.status === 200) {
-                if (aj.readyState === 3) {
-                    mainContent.innerHTML = `
-                    <p>loading...</p>
-                    `
+        mainContent.innerHTML = "<p>loading...</p>";
+        $.ajax({
+            url: "/mainContent/"+loadcontent+".html",
+            dataType: "html",
+            cache: false,
+            success: function (res) {
+                //console.log(res);
+                mainContent.innerHTML = "";
+                var newcontent = document.createElement("div");
+                newcontent.innerHTML = res;
+                mainContent.appendChild(newcontent);
+                history.pushState(loadcontent, "開智発表会2024", "/"+loadcontent+"/");
+                if (location.pathname == "/notice/") {
+                    loadCSVData();
                 }
-                else if (aj.readyState === 4) {
-                    //console.log(aj.responseText);
-                    mainContent.innerHTML = aj.responseText;
-                    history.pushState(loadcontent, "開智発表会2024", "./index.html?p="+loadcontent);
-                    scrollTo(0, 0);
-                    page = loadcontent;
-                    if (page == "notice") {
-                        loadCSVData();
-                    }
-                }
+            },
+            error: function(){
+                mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
             }
-        }
+        });
     }
     else {
         console.log("準備中...")
         alert("未確定の情報のため閲覧できません。もうしばらくお待ちください。")
     }
 });
+
+
 // 開智発表会の文字と左上のロゴだけはclassが異なる 多分もっといい方法ある
 $(".navbar-brand").click(function(event){
-    event.preventDefault();
-    var aj = new XMLHttpRequest;
-    aj.open("GET", "./mainContent/top.html");
-    aj.send();
-    aj.onreadystatechange = function() {
-        if (aj.status === 200) {
-            if (aj.readyState === 3) {
-                mainContent.innerHTML = `
-                <p>loading...</p>
-                `
-            }
-            else if (aj.readyState === 4) {
-                //console.log(aj.responseText);
-                mainContent.innerHTML = aj.responseText;
-                history.pushState("top", "開智発表会2024", "./index.html?p=top");
-                scrollTo(0, 0);
-                page = "top";
-            }
+    event.preventDefault(); //イベントの無効化
+    var loadcontent = $(this).attr("id"); //ID取得
+
+    console.log(loadcontent);
+    mainContent.innerHTML = "<p>loading...</p>";
+    $.ajax({
+        url: "/mainContent/top.html",
+        dataType: "html",
+        cache: false,
+        success: function (res) {
+            //console.log(res);
+            mainContent.innerHTML = "";
+            var newcontent = document.createElement("div");
+            newcontent.innerHTML = res;
+            mainContent.appendChild(newcontent);
+            history.pushState("top", "開智発表会2024", "/");
+        },
+        error: function(){
+            mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
         }
-    }
+    });
 });
 
 
@@ -133,59 +122,53 @@ $(".navbar-brand").click(function(event){
 window.addEventListener("popstate", function(e) {
     //console.log(e.state);
     if (e.state != null) {
-        console.log("back to "+e.state);
-        aj.open("GET", "./mainContent/"+e.state+".html");
-        aj.send();
-        aj.onreadystatechange = function() {
-            if (aj.status === 200) {
-                if (aj.readyState === 3) {
-                    mainContent.innerHTML = `
-                    <p>loading...</p>
-                    `
+        var loadcontent = e.state;
+        console.log("back to "+loadcontent);
+        mainContent.innerHTML = "<p>loading...</p>";
+        $.ajax({
+            url: "/mainContent/"+loadcontent+".html",
+            dataType: "html",
+            cache: false,
+            success: function (res) {
+                //console.log(res);
+                mainContent.innerHTML = "";
+                var newcontent = document.createElement("div");
+                newcontent.innerHTML = res;
+                mainContent.appendChild(newcontent);
+                if (location.pathname == "/notice/") {
+                    loadCSVData();
                 }
-                else if (aj.readyState === 4) {
-                    //console.log(aj.responseText);
-                    mainContent.innerHTML = aj.responseText;
-                    page = e.state;
-                    if (page == "notice") {
-                        loadCSVData();
-                    }
-                }
+            },
+            error: function(){
+                mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
             }
-        }
+        });
     }
     else {
-        aj.open("GET", "./mainContent/top.html");
-        aj.send();
-        aj.onreadystatechange = function() {
-            if (aj.status === 200) {
-                if (aj.readyState === 3) {
-                    mainContent.innerHTML = `
-                    <p>loading...</p>
-                    `
-                }
-                else if (aj.readyState === 4) {
-                    //console.log(aj.responseText);
-                    mainContent.innerHTML = aj.responseText;
-                    page = "top"
-                }
+        mainContent.innerHTML = "<p>loading...</p>";
+        $.ajax({
+            url: "/mainContent/top.html",
+            dataType: "html",
+            cache: false,
+            success: function (res) {
+                //console.log(res);
+                mainContent.innerHTML = "";
+                var newcontent = document.createElement("div");
+                newcontent.innerHTML = res;
+                mainContent.appendChild(newcontent);
+            },
+            error: function(){
+                mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
             }
-        }
+        });
     }
 })
-
-
-// ページを開いた時のアニメーション
-$(function(){
-    sleepSetTimeout(3500, () => $(".title").animate({opacity: 0,}, 1000));
-    sleepSetTimeout(4500, () => $(".title").remove())
-});
 
 
 // トップページのカウントダウンのプログラム
 function showRestTime() {
     // トップページでないとエラーがうるさいから条件つき
-    if (page == "top") {
+    if (location.pathname == "/") {
         var time = 0;
         const now = new Date();
         var goal;
