@@ -4,7 +4,7 @@ async function loadCSVData() {
     const text = await response.text();
     const data = text.trim().split('\n').map(line => line.split(',').map(x => x.trim()));
     var articles = "";
-    for (let i = 0; i < data.length; i++) {
+    for (var i = 0; i < data.length; i++) {
         articles += `
             <article style="margin-bottom:80px;">
                 <h2 class="underline no-space">`+data[i][0]+`</h2>
@@ -17,10 +17,24 @@ async function loadCSVData() {
 }
 
 
+// タイムテーブル生成用関数
+async function getTimetable(day) {
+    const table = document.getElementById("timetable-area");
+    const timetable = await fetch("/timetable/"+day+".csv");
+    const text = await timetable.text();
+    const data = text.trim().split("\n").map(line => line.split(',').map(x => x.trim()));
+    var tablehtml = ""
+    for (var i = 0; i < data.length; i++) {
+        tablehtml += `<div style="position:absolute; top:`+ (data[i][0]-9)/6.5*100 +`%; left:`+ data[i][2]*25 +`%; width:25%; height:`+ data[i][1]/6.5*100 +`%; background-color:white; color:black;">
+    <a href="#">`+ data[i][3] +`</a>
+</div>`;
+    }
+    table.innerHTML = tablehtml;
+}
+
+
 // 変数とか要素の指定
 var mainContent = document.getElementById("main");
-var aj = new XMLHttpRequest;
-var page = "none"
 
 var loadcontent = location.pathname.slice(1);
 if (loadcontent == "") {
@@ -47,6 +61,9 @@ $.ajax({
             history.pushState(loadcontent, "開智発表会2024", "/"+loadcontent+"/");
             if (location.pathname == "/notice/") {
                 loadCSVData();
+            }
+            else if (location.pathname == "/timetable/") {
+                getTimetable("day1");
             }
         }
     },
