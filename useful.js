@@ -1,3 +1,3 @@
 function sleepSetTimeout(ms, callback) {
-    setTimeout(callback, ms);
+  setTimeout(callback, ms);
 }

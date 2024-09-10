@@ -1,55 +1,75 @@
 html {
-    padding: 0px;
+  padding: 0px;
 }
 
 body {
-    background-color:rgba(20, 20, 20, 1);
-    padding: 0px;
-    font-family: "Noto Sans JP", system-ui;
-    font-optical-sizing: auto;
-    font-style: normal;
+  background-color: rgba(20, 20, 20, 1);
+  padding: 0px;
+  font-family: "Noto Sans JP", system-ui;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
 strong {
-    color: #ffff85;
+  color: #ffff85;
 }
 
 .bg-lighter {
-    background-image:radial-gradient(rgba(85, 85, 85, 1), rgba(56, 56, 56, 1) 40%, rgba(20, 20, 20, 1) 60%);
+  background-image: radial-gradient(rgba(85, 85, 85, 1), rgba(56, 56, 56, 1) 40%, rgba(20, 20, 20, 1) 60%);
 }
 
 .no-space {
-    margin-top: 0;
+  margin-top: 0;
 }
 
 h2 {
-    margin-top: 80px;
+  margin-top: 80px;
 }
 
 h3 {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 
 .underline {
-    width: 100%;
-    border-bottom: 2px solid white;
+  width: 100%;
+  border-bottom: 2px solid white;
 }
 
 .smaller {
-    width: 95%;
-    margin: 0 auto;
+  width: 95%;
+  margin: 0 auto;
 }
 
 .titlelogo {
-    transform-origin:48.5% 0 0;
-    animation: 2s linear 0.5s infinite normal none running logorotate;
+  transform-origin: 48.5% 0 0;
+  animation: 2s linear 0.5s infinite normal none running logorotate;
 }
 
 @keyframes logorotate {
-    0% {
-        transform:translateZ(40px) rotateY(0);
-    }
-    100% {
-        transform:translateZ(40px) rotateY(-360deg);
-    }
+  0% {
+    transform: translateZ(40px) rotateY(0);
+  }
+
+  100% {
+    transform: translateZ(40px) rotateY(-360deg);
+  }
+}
+
+.scale-unit {
+  padding: 0;
+  margin: 0;
+  height: 15.38vh;
+  width: 100%;
+}
+
+.full {
+  border-top: white solid 2px;
+}
+
+.semi {
+  border-top: gray solid 2px;
+}
+
+.timeaxis {
+  margin-left: -15vw;
 }
