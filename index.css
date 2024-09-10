@@ -73,3 +73,9 @@ h3 {
 .timeaxis {
   margin-left: -15vw;
 }
+
+@media (max-width: 576px) {
+  h6 {
+    font-size: 0.8rem;
+  }
+}

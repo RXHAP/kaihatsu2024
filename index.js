@@ -17,17 +17,24 @@ async function loadCSVData() {
 
 // タイムテーブル生成用関数
 async function getTimetable(day) {
+  $(".pjcontent").remove();
   const table = document.getElementById("timetable-area");
   const timetable = await fetch("/timetable/" + day + ".csv");
   const text = await timetable.text();
   const data = text.trim().split("\n").map(line => line.split(',').map(x => x.trim()));
   var tablehtml = ""
   for (var i = 0; i < data.length; i++) {
-    tablehtml += `<a href="#" style="text-decoration:none; position:absolute; top:` + (data[i][0]-9)/6.5*100 + `%; left:` + (data[i][2]*25+1) + `%; width:23%; height:` + data[i][1]/6.5*100 + `%; background-color:#fcc76a; display:table;">
-  <p style="color:black; text-align:center; margin:0; vertical-align:middle; display:table-cell; word-break:break-all;">`+ data[i][3] + `<br>` + Math.floor(data[i][0]) + `:` + ("00"+Math.round((data[i][0]-Math.floor(data[i][0]))*60)).slice(-2)  + `~</p>
+    tablehtml += `<a href="#" class="pjcontent" style="text-decoration:none; position:absolute; top:` + (data[i][0]-9)/6.5*100 + `%; left:` + (data[i][2]*25+1) + `%; width:23%; height:` + data[i][1]/6.5*100 + `%; background-color:#fcc76a; display:table;">
+  <h6 style="color:black; text-align:center; margin:0; vertical-align:middle; display:table-cell; word-break:break-all;">`+ data[i][3] + `<br>` + Math.floor(data[i][0]) + `:` + ("00"+Math.round((data[i][0]-Math.floor(data[i][0]))*60)).slice(-2)  + `~</h6>
 </a>`;
   }
   table.innerHTML += tablehtml;
+  if (day == "day1") {
+    document.getElementById("day").innerHTML = "一日目";
+  }
+  else {
+    document.getElementById("day").innerHTML = "二日目";
+  }
 }
 
 
