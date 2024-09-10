@@ -17,6 +17,15 @@ async function loadCSVData() {
 
 // タイムテーブル生成用関数
 async function getTimetable(day) {
+  if (eventtime == 0) {
+    document.getElementById("day1").addEventListener("click", function() {
+      getTimetable("day1")
+    });
+    document.getElementById("day2").addEventListener("click", function() {
+      getTimetable("day2")
+    });
+    eventtime = 1;
+  }
   $(".pjcontent").remove();
   const table = document.getElementById("timetable-area");
   const timetable = await fetch("/timetable/" + day + ".csv");
@@ -39,6 +48,7 @@ async function getTimetable(day) {
 
 
 // 変数とか要素の指定
+var eventtime = 0;
 var mainContent = document.getElementById("main");
 var loadcontent = location.pathname.split('/');
 console.log(loadcontent[1]);
