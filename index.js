@@ -1,6 +1,6 @@
 // お知らせページのお知らせ取得関数
 async function loadCSVData() {
-  const response = await fetch('/notice.csv');
+  const response = await fetch('/2024/notice.csv');
   const text = await response.text();
   const data = text.trim().split('\n').map(line => line.split(',').map(x => x.trim()));
   var articles = "";
@@ -28,7 +28,7 @@ async function getTimetable(day) {
   }
   $(".pjcontent").remove();
   const table = document.getElementById("timetable-area");
-  const timetable = await fetch("/timetable/" + day + ".csv");
+  const timetable = await fetch("/2024/timetable/" + day + ".csv");
   const text = await timetable.text();
   const data = text.trim().split("\n").map(line => line.split(',').map(x => x.trim()));
   var tablehtml = ""
@@ -51,13 +51,13 @@ async function getTimetable(day) {
 var eventtime = 0;
 var mainContent = document.getElementById("main");
 var loadcontent = location.pathname.split('/');
-console.log(loadcontent[1]);
-if (loadcontent[1] == "") {
-  loadcontent[1] = "top"
+console.log(loadcontent[2]);
+if (loadcontent[2] == "") {
+  loadcontent[2] = "top"
 }
 mainContent.innerHTML = "<p>loading...</p>";
 $.ajax({
-  url: "/mainContent/" + loadcontent[1] + ".html",
+  url: "/2024/mainContent/" + loadcontent[2] + ".html",
   dataType: "html",
   cache: false,
   success: function (res) {
@@ -66,15 +66,15 @@ $.ajax({
     var newcontent = document.createElement("div");
     newcontent.innerHTML = res;
     mainContent.appendChild(newcontent);
-    if (loadcontent[1] == "top") {
-      history.pushState("top", "開智発表会2024", "/");
+    if (loadcontent[2] == "top") {
+      history.pushState("top", "開智発表会2024", "/2024/");
     }
     else {
-      history.pushState(loadcontent[1], "開智発表会2024", "/" + loadcontent[1] + "/");
-      if (location.pathname.split("/")[1] == "notice") {
+      history.pushState(loadcontent[2], "開智発表会2024", "/2024/" + loadcontent[2] + "/");
+      if (location.pathname.split("/")[2] == "notice") {
         loadCSVData();
       }
-      if (location.pathname.split("/")[1] == "timetable") {
+      if (location.pathname.split("/")[2] == "timetable") {
         getTimetable("day1");
       }
     }
@@ -94,7 +94,7 @@ $(".nav-link").click(function (event) {
     console.log(loadcontent);
     mainContent.innerHTML = "<p>loading...</p>";
     $.ajax({
-      url: "/mainContent/" + loadcontent + ".html",
+      url: "/2024/mainContent/" + loadcontent + ".html",
       dataType: "html",
       cache: false,
       success: function (res) {
@@ -103,11 +103,11 @@ $(".nav-link").click(function (event) {
         var newcontent = document.createElement("div");
         newcontent.innerHTML = res;
         mainContent.appendChild(newcontent);
-        history.pushState(loadcontent, "開智発表会2024", "/" + loadcontent + "/");
-        if (location.pathname.split("/")[1] == "notice") {
+        history.pushState(loadcontent, "開智発表会2024", "/2024/" + loadcontent + "/");
+        if (location.pathname.split("/")[2] == "notice") {
           loadCSVData();
         }
-        if (location.pathname.split("/")[1] == "timetable") {
+        if (location.pathname.split("/")[2] == "timetable") {
           getTimetable("day1");
         }
       },
@@ -129,7 +129,7 @@ $(".navbar-brand").click(function (event) {
   console.log($(this).attr("id"));
   mainContent.innerHTML = "<p>loading...</p>";
   $.ajax({
-    url: "/mainContent/top.html",
+    url: "/2024/mainContent/top.html",
     dataType: "html",
     cache: false,
     success: function (res) {
@@ -138,7 +138,7 @@ $(".navbar-brand").click(function (event) {
       var newcontent = document.createElement("div");
       newcontent.innerHTML = res;
       mainContent.appendChild(newcontent);
-      history.pushState("top", "開智発表会2024", "/");
+      history.pushState("top", "開智発表会2024", "/2024/");
     },
     error: function () {
       mainContent.innerHTML = "error: 読み込みに失敗しました。再読み込みしてください。"
@@ -156,7 +156,7 @@ window.addEventListener("popstate", function (e) {
     console.log("back to " + loadcontent);
     mainContent.innerHTML = "<p>loading...</p>";
     $.ajax({
-      url: "/mainContent/" + loadcontent + ".html",
+      url: "/2024/mainContent/" + loadcontent + ".html",
       dataType: "html",
       cache: false,
       success: function (res) {
@@ -165,10 +165,10 @@ window.addEventListener("popstate", function (e) {
         var newcontent = document.createElement("div");
         newcontent.innerHTML = res;
         mainContent.appendChild(newcontent);
-        if (location.pathname.split("/")[1] == "notice") {
+        if (location.pathname.split("/")[2] == "notice") {
           loadCSVData();
         }
-        if (location.pathname.split("/")[1] == "timetable") {
+        if (location.pathname.split("/")[2] == "timetable") {
           getTimetable("day1");
         }
       },
@@ -180,7 +180,7 @@ window.addEventListener("popstate", function (e) {
   else {
     mainContent.innerHTML = "<p>loading...</p>";
     $.ajax({
-      url: "/mainContent/top.html",
+      url: "/2024/mainContent/top.html",
       dataType: "html",
       cache: false,
       success: function (res) {
@@ -201,7 +201,7 @@ window.addEventListener("popstate", function (e) {
 // トップページのカウントダウンのプログラム
 function showRestTime() {
   // トップページでないとエラーがうるさいから条件つき
-  if (location.pathname == "/") {
+  if (location.pathname.split("/")[2] == "") {
     var time = 0;
     const now = new Date();
     var goal;
