@@ -2,7 +2,7 @@ from flask import Flask
 import mysql.connector
 import sys
 
-sys.path.append("/home/rxhap/rxhap.com/python/vote_venv/lib/python3.12/site-packages")
+sys.path.append("/home/rxhap/rxhap.com/public_html/venv/lib/python3.12/site-packages")
 app = Flask(__name__)
 
 @app.route('/')
