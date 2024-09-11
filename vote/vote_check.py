@@ -5,15 +5,17 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-  return '200'
+  return 'success!'
 
-@app.route("/<id>")
+@app.route("/api/<id>")
 def id_check(id):
   connector = mysql.connector.connect(
     host="localhost",
     user="rxhap_2024",
     password="kmarisa1009",
-    database="rxhap_vote2024"
+    database="rxhap_vote2024",
+    use_pure=True,
+    charset="utf8"
   )
   cursor = connector.cursor()
   sql = "select * from vote_check where id="+str(id)
