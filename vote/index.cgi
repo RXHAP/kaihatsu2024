@@ -1,4 +1,4 @@
-#!/home/rxhap/rxhap.com/python/vote_venv/bin/python
+#!/home/rxhap/rxhap.com/public_html/venv/bin/python
 from wsgiref.handlers import CGIHandler
 from vote_check import app
 CGIHandler().run(app)
