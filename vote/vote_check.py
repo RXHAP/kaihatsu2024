@@ -10,12 +10,10 @@ def hello_world():
 @app.route("/api/<id>")
 def id_check(id):
   connector = mysql.connector.connect(
-    host="localhost",
+    host="127.0.0.1",
     user="rxhap_2024",
     password="kmarisa1009",
-    database="rxhap_vote2024",
-    use_pure=True,
-    charset="utf8"
+    database="rxhap_vote2024"
   )
   cursor = connector.cursor()
   sql = "select * from vote_check where id="+str(id)
