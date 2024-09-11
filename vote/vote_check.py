@@ -16,7 +16,7 @@ def id_check(id):
     database="rxhap_vote2024"
   )
   cursor = conn.cursor()
-  cursor.execute("select * from vote_check where id="+id+";")
+  cursor.execute("select * from vote_check where id="+str(id)+";")
   result = cursor.fetchall()
 
   cursor.close()
