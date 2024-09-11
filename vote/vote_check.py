@@ -9,16 +9,17 @@ def hello_world():
 
 @app.route("/<id>")
 def id_check(id):
-  conn = mysql.connector.connect(
+  connector = mysql.connector.connect(
     host="localhost",
     user="rxhap_2024",
     password="kmarisa1009",
     database="rxhap_vote2024"
   )
-  cursor = conn.cursor()
-  cursor.execute("select * from vote_check where id="+str(id))
+  cursor = connector.cursor()
+  sql = "select * from vote_check where id="+str(id)
+  cursor.execute(sql)
   result = cursor.fetchall()
 
   cursor.close()
-  conn.close()
+  connector.close()
   return result
