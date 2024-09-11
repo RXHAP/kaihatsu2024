@@ -1,6 +1,8 @@
 from flask import Flask
 import mysql.connector
+import sys
 
+sys.path.append("/home/rxhap/rxhap.com/python/vote_venv/lib/python3.12/site-packages")
 app = Flask(__name__)
 
 @app.route('/')
@@ -16,7 +18,7 @@ def id_check(id):
     database="rxhap_vote2024"
   )
   cursor = connector.cursor()
-  sql = "select * from vote_check where id=65122124"
+  sql = "select * from vote_check where id="+id
   cursor.execute(sql)
   result = cursor.fetchall()
 
