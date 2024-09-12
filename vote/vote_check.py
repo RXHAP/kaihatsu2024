@@ -23,4 +23,4 @@ def id_check(id):
   cursor.close()
   connector.close()
   for row in result:
-    return row
+    return str(row)
