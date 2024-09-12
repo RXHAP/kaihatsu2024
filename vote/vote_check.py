@@ -11,9 +11,9 @@ def hello_world():
 def id_check(id):
   connector = mysql.connector.connect(
     host="127.0.0.1",
-    user="rxhap_2024",
+    user="xs765341_2024",
     password="kmarisa1009",
-    database="rxhap_vote2024"
+    database="xs765341_vote2024"
   )
   cursor = connector.cursor()
   sql = "select * from vote_check where id="+id
