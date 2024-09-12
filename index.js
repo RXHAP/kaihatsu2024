@@ -52,7 +52,7 @@ var eventtime = 0;
 var mainContent = document.getElementById("main");
 var loadcontent = location.pathname.split('/');
 console.log(loadcontent[2]);
-if (loadcontent[2] == "") {
+if (loadcontent[2] == "" || loadcontent[2] == "index.html") {
   loadcontent[2] = "top"
 }
 mainContent.innerHTML = "<p>loading...</p>";
