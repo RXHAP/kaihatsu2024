@@ -7,7 +7,7 @@ app = Flask(__name__)
 def hello_world():
   return 'success!'
 
-@app.route("/api/<id>")
+@app.route("/api/<id>/")
 def id_check(id):
   connector = mysql.connector.connect(
     host="127.0.0.1",
