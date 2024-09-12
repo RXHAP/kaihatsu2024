@@ -22,6 +22,7 @@ def id_check(id):
 
   cursor.close()
   connector.close()
+  print(result)
   for row in result:
     return str(row)
   if str(row) == "()":
