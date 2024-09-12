@@ -3,3 +3,7 @@
 Header set Cache-Control no-store
 Header set Pragma no-store
 </FilesMatch>
+
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "https://script.google.com"
+</IfModule>
