@@ -25,5 +25,5 @@ def id_check(id):
   print(result)
   for row in result:
     return str(row)
-  if str(result) == "()":
+  if str(result) == "[]":
     return "そんなIDねえよ うるせえよ"
