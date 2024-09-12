@@ -24,3 +24,5 @@ def id_check(id):
   connector.close()
   for row in result:
     return str(row)
+  if str(row) == "()":
+    return "そんなIDねえよ うるせえよ"
