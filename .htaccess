@@ -5,5 +5,5 @@ Header set Pragma no-store
 </FilesMatch>
 
 <IfModule mod_headers.c>
-  Header set Access-Control-Allow-Origin "https://script.google.com"
+  Header set Access-Control-Allow-Origin "https://*.googleusercontent.com"
 </IfModule>
