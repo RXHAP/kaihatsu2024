@@ -1,6 +1,5 @@
 from flask import Flask
-#import mysql.connector
-import MySQLdb
+import mysql.connector
 
 app = Flask(__name__)
 
@@ -10,7 +9,7 @@ def hello_world():
 
 @app.route("/api/<id>")
 def id_check(id):
-  connector = MySQLdb.connect(
+  connector = mysql.connector.connect(
     host="127.0.0.1",
     user="rxhap_2024",
     password="kmarisa1009",
