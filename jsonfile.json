@@ -1,2369 +1,3266 @@
-[
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+{
+  "101": {
+    "id": "101",
+    "type": "1",
+    "projectName": "ボーッとゲーム",
+    "organizationName": "3A",
+    "location": [
+      {
+        "floor": "2",
+        "name": "201",
+        "id": "i201"
+      }
+    ],
+    "description": {
+      "short": "ボーッと、ゲームしにきませんか。",
+      "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3A",
+      "2"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "102": {
+    "id": "102",
+    "type": "1",
+    "projectName": "CASINO-X",
+    "organizationName": "3B",
+    "location": [
+      {
+        "floor": "3",
+        "name": "302",
+        "id": "i302"
+      }
+    ],
+    "description": {
+      "short": "カジノしたい人は3Bに集合！",
+      "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3B",
+      "3"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "103": {
+    "id": "103",
+    "type": "1",
+    "projectName": "くろだっちゃ",
+    "organizationName": "3C ",
+    "location": [
+      {
+        "floor": "4",
+        "name": "401",
+        "id": "i401"
+      }
+    ],
+    "description": {
+      "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
+      "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3C ",
+      "4"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "104": {
+    "id": "104",
+    "type": "1",
+    "projectName": "メイドin冥土",
+    "organizationName": "3DL",
+    "location": [
+      {
+        "floor": "4",
+        "name": "412",
+        "id": "i412"
+      }
+    ],
+    "description": {
+      "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
+      "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": true,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3DL",
+      "4"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "105": {
+    "id": "105",
+    "type": "1",
+    "projectName": "ESCAPE　GAME",
+    "organizationName": "3E ",
+    "location": [
+      {
+        "floor": "3",
+        "name": "300",
+        "id": "i300"
+      }
+    ],
+    "description": {
+      "short": "全身を使って謎を解け！！",
+      "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3E ",
+      "3"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "106": {
+    "id": "106",
+    "type": "1",
+    "projectName": "樹海の白雪姫",
+    "organizationName": "3F",
+    "location": [
+      {
+        "floor": "4",
+        "name": "403",
+        "id": "i403"
+      }
+    ],
+    "description": {
+      "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
+      "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3F",
+      "4"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "107": {
+    "id": "107",
+    "type": "1",
+    "projectName": "脱菓子屋",
+    "organizationName": "3G",
+    "location": [
+      {
+        "floor": "3",
+        "name": "306",
+        "id": "i306"
+      }
+    ],
+    "description": {
+      "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
+      "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3G",
+      "3"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "108": {
+    "id": "108",
+    "type": "1",
+    "projectName": "ベイブレードライフ",
+    "organizationName": "3H",
+    "location": [
+      {
+        "floor": "3",
+        "name": "305",
+        "id": "i305"
+      }
+    ],
+    "description": {
+      "short": "今、あなたは笑えていますか？",
+      "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
-    },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
-    },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
-    },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
-    },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
-    },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
-    },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3H",
+      "3"
+    ]
   },
-  {
-    "101": {
-      "id": "101",
-      "type": "1",
-      "projectName": "ボーッとゲーム",
-      "organizationName": "3A",
-      "location": [
-        {
-          "floor": "2",
-          "name": "201",
-          "id": "i201"
-        }
-      ],
-      "description": {
-        "short": "ボーッと、ゲームしにきませんか。",
-        "long": "ボードゲームはみんなが知ってるようなとても身近なものから、多くの人が知らないとてもマニアックなものまで様々なものがあります。また、ボードゲームは遊びのように見えて（遊びなのですが）、実はとても頭を使う奥深いものでもあります。私たちA組は、そのボードゲームの面白さ、素晴らしさを知っていると断言できます。ただ面白過ぎて、わたしたちだけでとどめておくのは勿体無いと思い、どんどん広めていこうとこの企画をすることにしました。 『ボーッとゲーム』では、主に皆さんが知らないようなボードゲームを扱います。疲れたなーっとボーッとしにくるだけでも良いので一度でも参加してみてください。あなたもボードゲーム沼にハマるはずです。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3A-ボーッとゲーム.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3A",
-        "2"
-      ]
+  "109": {
+    "id": "109",
+    "type": "1",
+    "projectName": "HAHIFHEFHOTOSPOT",
+    "organizationName": "3I",
+    "location": [
+      {
+        "floor": "3",
+        "name": "301",
+        "id": "i301"
+      }
+    ],
+    "description": {
+      "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
+      "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
     },
-    "102": {
-      "id": "102",
-      "type": "1",
-      "projectName": "CASINO-X",
-      "organizationName": "3B",
-      "location": [
-        {
-          "floor": "3",
-          "name": "302",
-          "id": "i302"
-        }
-      ],
-      "description": {
-        "short": "カジノしたい人は3Bに集合！",
-        "long": "〜ようこそ実力至上主義のCASINO-Xへ〜 こんにちは3Bです。僕たち3BはCASINO-Xをします。 このカジノは実際にあるラスベガスのレトロなカジノをテーマにしています。 このカジノのアピールポイントは代表的なポーカーやブラックジャック、ルーレットだけでなく、 少し珍しいバカラやクラップスなど様々なゲームを用意しているという所です。 他にもランキングやゲリライベントを開催する予定です。 ゲリライベントを一部紹介すると、 •\t「超大物教師Xが登場！」 •\t「ポーカーのVIPマッチ(超高レート)」などお客様が退屈しないようなコンテンツも沢山用意しています。 3B一同皆さんが楽しめるように全力で運営を頑張りますので、是非来てみてください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3B-CASINO-X.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3B",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp"
     },
-    "103": {
-      "id": "103",
-      "type": "1",
-      "projectName": "くろだっちゃ",
-      "organizationName": "3C ",
-      "location": [
-        {
-          "floor": "4",
-          "name": "401",
-          "id": "i401"
-        }
-      ],
-      "description": {
-        "short": "一文verカラオケ大会を行います！！みんなきてね＾＾",
-        "long": "3Cではボールとエアガン(安全)による射的を行います休憩所も設けています。是非いらしてください。お待ちしております。"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3C -くろだっちゃ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3C ",
-        "4"
-      ]
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3I",
+      "3"
+    ]
+  },
+  "110": {
+    "id": "110",
+    "type": "1",
+    "projectName": "Jの街3丁目、不思議の館からの脱出",
+    "organizationName": "3J",
+    "location": [
+      {
+        "floor": "4",
+        "name": "400",
+        "id": "i400"
+      }
+    ],
+    "description": {
+      "short": "Jの街3丁目、不思議の館。そこに潜む謎とは…",
+      "long": " 紳士淑女の皆々様へ――――――――――――  いかがお過ごしでしょうか。貴殿に、Jの街3丁目不思議の館にて今宵九月十四日、そして翌日十五日に行われる舞踏会に出席していただきたく、この招待状をお送りさせていただきます。 我々が今回用意したのは由緒正しき数々のパーティールーム、ぜひお楽しみください。 皆様のご来館を、我々一同心待ちにしております。 　　　　　　　　　　　　　　　　不思議の館 ―――――――――――――――――――――  という招待状を受け取った上方よ。 楽しい時間も束の間。貴方は数種類の部屋がある館に閉じ込められてしまいました。 あなたは、どの部屋に進むかを選択しその部屋で謎を探し出し、貴方の頭脳とひらめきを信じて部屋の扉の鍵を探し出し館から脱出してください。 今、あなたの運命が試される＿＿"
     },
-    "104": {
-      "id": "104",
-      "type": "1",
-      "projectName": "メイドin冥土",
-      "organizationName": "3DL",
-      "location": [
-        {
-          "floor": "4",
-          "name": "412",
-          "id": "i412"
-        }
-      ],
-      "description": {
-        "short": "プレイヤーは、メイドに乗り移った怨霊を冥土におくらなければならない!?",
-        "long": "あるメイド喫茶の客がいた。 その客は、一人のメイドを愛していた。そのメイドの自分への接し方から、客はメイドも自分を愛していると思っていた。 しかし他の客へも同じように接していたところを見てしまい絶望する。 そして、次の日メイドを問いただすも、「仕事だから」と一喝されてしまい、心中しようとするも、揉み合いになり客だけが死んでしまった。 その魂は怨霊となり、メイドに取り憑くようになる。 プレイヤーは店長からの依頼を受け、探偵として客が不可解な死をとげているというメイド喫茶にいくことになる。 最初は可愛いメイドに接客されるが、だんだんメイドの様子がおかしくなっていって､､､"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3DL-メイドin冥土.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": true,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3DL",
-        "4"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3J-Jの街3丁目、不思議の館からの脱出.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3J-Jの街3丁目、不思議の館からの脱出.webp"
     },
-    "105": {
-      "id": "105",
-      "type": "1",
-      "projectName": "ESCAPE　GAME",
-      "organizationName": "3E ",
-      "location": [
-        {
-          "floor": "3",
-          "name": "300",
-          "id": "i300"
-        }
-      ],
-      "description": {
-        "short": "全身を使って謎を解け！！",
-        "long": "あなたは3ーE帝国の科学者である秋元博士によって研究室に閉じ込められてしまいました。 こころ一E帝国では、秋元博士が開発した生物実験が失敗し、帝国の支配を脅かす危険な生物を生み出してしまいました。博士はその生物を利用して帝王に昇進し、更に帝国を掌握しようとしています。 研究室には、哀れな被害者達が残したダイイングメッセージと脱出装置があります。 あなたは博士の実験を阻止し、研究室の謎を解き明かし帝国と人民を救い、3ーE帝国の平和を取り戻してください！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3E -ESCAPE　GAME.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3E ",
-        "3"
-      ]
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3J",
+      "4"
+    ]
+  },
+  "111": {
+    "id": "111",
+    "type": "1",
+    "projectName": "Goospot",
+    "organizationName": "3K",
+    "location": [
+      {
+        "floor": "4",
+        "name": "402",
+        "id": "i402"
+      }
+    ],
+    "description": {
+      "short": "かっこいいと可愛いを兼ね備えた完璧メイドさんと楽しいひと時を〜🎵♡",
+      "long": "男子生徒と女子生徒の人数比が合ってなさすぎる3年K組。どういう風の吹き出しか、メイドカフェを開くようです。（因みに人数比は5:1！！なんでメイドカフェ開こうと思ったん？）それはさておき、そんなおぼつかない3年K組の生徒たちは様々なボードゲームをしてご主人様を楽しませてくれるようです。「期待してくれても構いませんよ〜🎵」（豪語）\n是非我らが「Goospot」にお越しください！"
     },
-    "106": {
-      "id": "106",
-      "type": "1",
-      "projectName": "樹海の白雪姫",
-      "organizationName": "3F",
-      "location": [
-        {
-          "floor": "4",
-          "name": "403",
-          "id": "i403"
-        }
-      ],
-      "description": {
-        "short": "童話の白雪姫×謎解き×迷路の体験型の企画です。",
-        "long": "開智発表会でやっている3Fの教室企画に入ってきた君たちは、いつの間にか白雪姫の世界に入っちゃった？！ 出会った王子は王妃(魔女)から逃げてる白雪姫を探してるらしいぞ！ 森の奥にいる白雪姫と、王子を合わせるために森に施されてる謎を解いて、白雪姫の元に辿り着こう！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3F-樹海の白雪姫.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3F",
-        "4"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3K-Goospot.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3K-Goospot.webp"
     },
-    "107": {
-      "id": "107",
-      "type": "1",
-      "projectName": "脱菓子屋",
-      "organizationName": "3G",
-      "location": [
-        {
-          "floor": "3",
-          "name": "306",
-          "id": "i306"
-        }
-      ],
-      "description": {
-        "short": "駄菓子屋に扮した脱獄犯の3G。開発に紛れる共犯者からヒントを集め、謎を解け！",
-        "long": "3Gです！脱菓子屋という名前から駄菓子屋を連想するかもしれませんが、私たちの正体は、集団脱獄犯です。この情報がバレると大変なことになるので、他の人には決して伝えないようにだけお願いします。しかしここだけの話、仲間のひとりが脱獄に失敗し、まだ牢屋にとらえられているんです。そんなわけで、駄菓子屋に扮して仲間を助ける機会を待っていたのですが、ついに、開発という一大イベントの時期になりました。この騒ぎに乗じて仲間の脱獄を目指します。 「脱菓子屋」は、校内をめぐって脱獄の手がかりをあつめて謎を解く、新感覚謎解きゲームとなっています。どうか、私たちの仲間を助けてください。脱菓子屋でお待ちしています！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3G-脱菓子屋.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3G",
-        "3"
-      ]
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "3K",
+      "4"
+    ]
+  },
+  "112": {
+    "id": "112",
+    "type": "1",
+    "projectName": "花ノ輪旅館vs本間探偵団〜死者の叫び〜",
+    "organizationName": "4AD",
+    "location": [
+      {
+        "floor": "5",
+        "name": "514",
+        "id": "i514"
+      }
+    ],
+    "description": {
+      "short": "一度入ったらあなたはもう抜け出せない…",
+      "long": "舞台は、花ノ輪旅館。私たち本間探偵団はその旅館の女将に依頼されてとある問題を調べていた。その問題とは、以前に廃業した旅館を取り壊そうとしたところ、とある部屋から何やらおかしな音がする、何故かその部屋だけ物が散乱していて常にぐちゃぐちゃになっている、と言った事が起きて、壊せずにいると言う。また、その問題のせいか、近隣から\"その部屋に入った者は死ぬ\"なんて噂も立っているらしい。 実際、本間探偵団でその土地を調査したところ、その部屋が荒れているのは「旅館にあった祠が壊れていて、悪霊が集まってしまったから」だと分かった。 君たちには、その祠にお札を貼って祠をきちんと封印してほしい。"
     },
-    "108": {
-      "id": "108",
-      "type": "1",
-      "projectName": "ベイブレードライフ",
-      "organizationName": "3H",
-      "location": [
-        {
-          "floor": "3",
-          "name": "305",
-          "id": "i305"
-        }
-      ],
-      "description": {
-        "short": "今、あなたは笑えていますか？",
-        "long": "この企画は人生ゲームにベイブレードを組み合わせた大型人生ゲームです。 ルーレットを回して止まったマスによってイベントがおきます。マスによっては敵と資産を賭けてベイブレードで戦い資産を増やしたりできます。ベイブレードやったことない方も安心してください。メイドがわかるまで丁寧に教えてくれます。 ベイブレードをしながら楽しく資金を増やしましょう！最終的な資金によって景品が決まります。 今の人生に満足できていないそこのあなた！ここにくればどんなことも全てが吹き飛ぶ刺激が体験できます！人生をやり直したい、そんな人は是非3Hへ！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3H-ベイブレードライフ.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3H",
-        "3"
-      ]
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4AD-花ノ輪旅館vs本間探偵団〜死者の叫び〜.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4AD-花ノ輪旅館vs本間探偵団〜死者の叫び〜.webp"
     },
-    "109": {
-      "id": "109",
-      "type": "1",
-      "projectName": "HAHIFHEFHOTOSPOT",
-      "organizationName": "3I",
-      "location": [
-        {
-          "floor": "3",
-          "name": "301",
-          "id": "i301"
-        }
-      ],
-      "description": {
-        "short": "おれさまバイキンマン！ハーヒフーヘホー！　おれさまのフォトスポットに遊びに来るがいい！",
-        "long": "はーひふーへほー！おれさまバイキンマン！おれさまはな、いつも頑張って作ったメカをアンパンマンに壊されるんだ！でも今回作ったのは自信があるのさ！だからお前たちに特別に最新のダダンダンを見せてやる！それと俺様の仲間、かびるんるん達も来てくれるがあいつらは繊細なんだ！だからいじめんじゃねーぞ！それじゃあおれさまの手下にバトンタッチだ！こんにちは、三年I組です！私達はバイキンマンとその仲間達をテーマとしたフォトスポットを出します。ダダンダンの中に入って写真が撮れますし、もちろんドキンちゃん達もいます。来てくれた人にはかわいいステッカーをプレゼントしちゃいますよ。遊びにきてね！バ〜イバ〜イキ〜ン！"
-      },
-      "icon": "https://kaichi-fes.jp/2024/projecticon/3I-HAHIFHEFHOTOSPOT.webp",
-      "introduceImages": [],
-      "snsAccount": [],
-      "isHaunted": false,
-      "isFoodVendor": false,
-      "isStage": false,
-      "isOrganizationExist": true,
-      "tag": [
-        "クラス",
-        "3I",
-        "3"
-      ]
-    }
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": true,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4AD",
+      "5"
+    ]
+  },
+  "113": {
+    "id": "113",
+    "type": "1",
+    "projectName": "4Bのアストロブラスター",
+    "organizationName": "4B",
+    "location": [
+      {
+        "floor": "5",
+        "name": "506",
+        "id": "i506"
+      }
+    ],
+    "description": {
+      "short": "開発でアトラクションをやるということは、開智発表会でアトラクションをやるということです。",
+      "long": "学園祭とは時にはアイデンティーを示す場所となれば、ノスタルジックな気持ちになる場所であると考えており、そこにはやはりジェネレーションギャップが存在するのだろう。しかし高校1年生の文化祭というのはあくまで今後の人生の一部でしかなくプロローグに過ぎないのだ。しかしながらこの文化祭で新しいリレーションシップを構築することができるなど今後の3年間と短く長い高校生活を華美なものにして今後の生活に彩りを与えることができる。彩の国だけに。あくまで我々が目指しているものは完成されているもののコピーではなく前衛的なものである。すなわちアバンギャルドということだ。しかし我々にそのような思考がアプリオリに備わっているわけではない。文化祭の定義を正したところで本題に入ろう。我々の企画は（以下略）"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4B-4Bのアストロブラスター.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4B-4Bのアストロブラスター.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4B",
+      "5"
+    ]
+  },
+  "114": {
+    "id": "114",
+    "type": "1",
+    "projectName": "メイドカジノ",
+    "organizationName": "4C",
+    "location": [
+      {
+        "floor": "5",
+        "name": "505",
+        "id": "i505"
+      }
+    ],
+    "description": {
+      "short": "世にも奇妙なメイドカジノへようこそ",
+      "long": "お帰りなさいませ、ご主人様。そのご様子では仕事で大分疲れ切ったようですね。ストレス発散に、ここで賭け事をしていってみてはいかがでしょうか。 ここでは可愛らしいメイドやイカついメイドなど多種多様なメイドたちがあなたをお迎え致します。どうぞごゆっくりお賭けください。あなた様がこの勝負を楽しめるよう、私たちメイドが全力でサポート致します。まぁ、勝てるかどうかはご主人様の技量しだいですが…。 このカジノではポーカーやブラックジャックをはじめ、ルーレットなどのゲームを揃えております。ご主人様がどのゲームを選んで、どんな戦い方をするのか、全てあなた様の思いのままに、ご自由に、お楽しみください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4C-メイドカジノ.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4C-メイドカジノ.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4C",
+      "5"
+    ]
+  },
+  "115": {
+    "id": "115",
+    "type": "1",
+    "projectName": "運命の迷い道",
+    "organizationName": "4E",
+    "location": [
+      {
+        "floor": "4",
+        "name": "405",
+        "id": "i405"
+      }
+    ],
+    "description": {
+      "short": "運命を分ける選択に惑わされるな！",
+      "long": "実は人間の一生というのは皆それぞれの分かれ道を知らず知らずに辿ってきている｡人間関係、勉学、社会活動…そんな中自らの進む運命が全て数少ない選択で決まってしまうと分かっている時、貴方はこの全てが奇想天外な道を迷わず正しい選択で進み続けられるか？今までの人生経験などを活かし選択を選択を誤らずに進めた時そこに何があるのか？はたまた選択を間違えた先には何が待っているのか？その先はこの予測ができないゲームに参加して自らの目で確かめてみてくれ！皆様のご来場お待ちしております！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4E-運命の迷い道.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4E-運命の迷い道.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4E",
+      "4"
+    ]
+  },
+  "116": {
+    "id": "116",
+    "type": "1",
+    "projectName": "ムーさんのマネーハント",
+    "organizationName": "4F",
+    "location": [
+      {
+        "floor": "5",
+        "name": "512",
+        "id": "i512"
+      }
+    ],
+    "description": {
+      "short": "皆さんも一日だけ犯罪者になってみませんか？？",
+      "long": "20xx年、AI産業の高度化により向井哲和先生(ムーさん)が開墾学園から解雇された。ムーさんは職を失ったことで金がなくなり自暴自棄になって、「銀行に忍び込めば大金が手に入る！」と思い、元生徒が働いている水政銀行へ襲撃することを決意する。 ムーさんのハニーハントは暗闇の中でお金を盗む没入型銀行強盗ゲームです！今回のコンセプトは「金庫の中」をイメージしたシューティングゲームになっています！ ムーさんの財布の中に入って移動しながらお金の的を撃って皆さんも億万長者を目指しましょう！！ たくさんお金を盗んだ人は黒板に指名手配犯として名前が刻まれます。皆さんも名前が刻まれるように頑張ってください！ 皆さんも一日だけ犯罪者になってみませんか？？"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4F-ムーさんのマネーハント.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4F-ムーさんのマネーハント.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4F",
+      "5"
+    ]
+  },
+  "117": {
+    "id": "117",
+    "type": "1",
+    "projectName": "Ghostmansion",
+    "organizationName": "4G",
+    "location": [
+      {
+        "floor": "4",
+        "name": "404",
+        "id": "i404"
+      }
+    ],
+    "description": {
+      "short": "ディズニーランドにあるホーンデットマンションをモチーフにした企画です！",
+      "long": "ようこそ、文化祭のホーンテッドマンションへ！私たちの企画は、古びた邸宅に潜む幽霊たちと一緒に、あなたを異次元の恐怖と驚きの世界へと誘います。薄暗い廊下や怪しげな部屋を進むごとに、あなたの心臓は速く打ち、息を呑むような体験が待っています！！手のひらに冷たい汗を感じながらも、恐怖と興奮の中で織りなされる幻想的なストーリーに引き込まれていくでしょう。ぜひ、友人や仲間と共に挑戦し、心の底から楽しむひとときをお過ごしください。ホーンテッドマンションでの不気味で魅惑的な冒険が、あなたの文化祭の記憶に深く刻まれることを願っています。恐怖と楽しさが交錯するホーンテッドマンションで、あなたの心臓が跳ねる体験をお楽しみください！！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4G-Ghostmansion.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4G-Ghostmansion.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4G",
+      "4"
+    ]
+  },
+  "118": {
+    "id": "118",
+    "type": "1",
+    "projectName": "Shooting 1000打",
+    "organizationName": "4H",
+    "location": [
+      {
+        "floor": "4",
+        "name": "406",
+        "id": "i406"
+      }
+    ],
+    "description": {
+      "short": "パスを受けたそこの君！幾千もの球で的を狙え！SHOOTING 1000打！⚽",
+      "long": "来る今日。私たちは今ワールドカップの決勝の舞台に立っている。 アディショナルタイム残り1分。ボールは今、味方からのパスで君の元にある！ 期待の新星である君たちに勝敗がかかっていると言っても過言ではない。ぜひ君たちの実力を存分に発揮して欲しい。大勢の観客達が4Hで待っているぞ！早く来たまえ！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4H-Shooting 1000打.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4H-Shooting 1000打.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4H",
+      "4"
+    ]
+  },
+  "119": {
+    "id": "119",
+    "type": "1",
+    "projectName": "Spyder",
+    "organizationName": "4I",
+    "location": [
+      {
+        "floor": "5",
+        "name": "511",
+        "id": "i511"
+      }
+    ],
+    "description": {
+      "short": "私たちはクモをモチーフにした脱出ゲームを行います！絶対楽しませるので是非来てください！！",
+      "long": "私たちのクラスでは、クモをモチーフにした脱出ゲームを行います。企画や企画内容、Tシャツのロゴなど、みんなで何度も何度も話し合って決め、とても良いものとなりました。すんなりと事を運ばせることはなかなか難しく、上手くいかなかったことも多かったですが、みんながそれぞれ意見を出し合えるクラスだからこそ一致団結して準備にも真面目に取り掛かってくれました。当日は誠心誠意、準備の成果を存分に発揮したいと思います。来て後悔はさせません、絶対皆さんを楽しませるので、是非お越しください！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4I-Spyder.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4I-Spyder.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4I",
+      "5"
+    ]
+  },
+  "120": {
+    "id": "120",
+    "type": "1",
+    "projectName": "Cursed2",
+    "organizationName": "4J",
+    "location": [
+      {
+        "floor": "5",
+        "name": "510",
+        "id": "i510"
+      }
+    ],
+    "description": {
+      "short": "舞台がメイド喫茶の怪談話です。",
+      "long": "今年の舞台はメイド喫茶。主人公はあなた！めっちゃ可愛いメイドと楽しくお喋りして甘酸っぱい恋を味わったら・・・❤️ 背筋の凍る体験が、あなたを待っている。決して、驚かず、怖がらず、弱音を吐かない。そんなあなたにみなが惚れるのは間違いない💘 漢を見せてメイドの心を掴むのは誰だ！可愛く怖がって開発の女王になるのは誰だ。我こそはという勇者をいざ返り討ちにしようとする、J組の怨霊が待っている。開発は、cursed2がジャックする！　誰にも愛されず、ご主人様の帰りをずっと待ち侘びていたメイドが自殺した。しかし彼女の霊は他のメイドへの嫉妬、そして憎悪といった怨念から、今もメイドカフェ内を彷徨い歩いているという… 「なんでみんな他の子の所にいくの。もっと私を愛してよ」 「ナンデみんな私のところに来ないの？」「ワタシヲアイシテクレナイノ？」  今回の開発で「あなた」はそんな噂のメイドカフェ、カースドメイドカフェに入店する。迫り来る恐怖に打ち勝ち、あなたは無事彼女の怨念を晴らすことができるのか…！？"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4J-Cursed2.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4J-Cursed2.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4J",
+      "5"
+    ]
+  },
+  "121": {
+    "id": "121",
+    "type": "1",
+    "projectName": "Mocktail Water",
+    "organizationName": "4K",
+    "location": [
+      {
+        "floor": "1",
+        "name": "101",
+        "id": "i101"
+      }
+    ],
+    "description": {
+      "short": "夏らしいトロピカルなノンアルコールカクテル販売してます！",
+      "long": "私たち4年K組はモクテルを販売します！ モクテルとは、夏にぴったりの冷たく爽やかなノンアルコールカクテルです。メニューにはフルーティーなカシスオレンジと、夕焼けを思わせるようなオレンジ色のアリゾナサンセットの二種類をご用意しました。カシスオレンジは、カシスの甘酸っぱさとオレンジの爽やかさが絶妙にマッチした一品です。アリゾナサンセットは、グレナデンシロップの甘酸っぱくほんのり辛い味に、スプライトの炭酸の爽快感が絶品です。どちらも一杯100円でご提供します。 開発で多くの企画を回り歩き疲れた後には、モクテルを片手に、椅子に掛けて休憩して行きませんか？ それでは開発で、試行錯誤の末に完成した美味しいモクテルをぜひご賞味ください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/4K-Mocktail Water.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/4K-Mocktail Water.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": true,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "4K",
+      "1"
+    ]
+  },
+  "122": {
+    "id": "122",
+    "type": "1",
+    "projectName": "steal or arrest",
+    "organizationName": "5A",
+    "location": [
+      {
+        "floor": "3",
+        "name": "304",
+        "id": "i304"
+      }
+    ],
+    "description": {
+      "short": "盗め",
+      "long": "ようこそ、「steal or arrest」へ！僕たちの企画では、教室を架空のコンビニであるサークルAサンクスに変身させました。ここであなたは、非常にスリリングな体験をすることができます。ゲストとして参加する皆さんには、店員の目を盗んで商品を手に入れる「万引き」に挑戦して頂きます。しかし、店員も万引きGメンとして店内を厳しい目でしっかり見張っています。成功すれば、万引きした商品はあなたのもの！ですがもし見つかってしまった場合は逮捕！果たしてあなたは、店員に気づかれずに商品をゲットできるでしょうか？皆さんのお越しを心よりお待ちしております！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5A-steal or arrest.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5A-steal or arrest.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5A",
+      "3"
+    ]
+  },
+  "123": {
+    "id": "123",
+    "type": "1",
+    "projectName": "花嫁修行",
+    "organizationName": "5B",
+    "location": [
+      {
+        "floor": "2",
+        "name": "204",
+        "id": "i204"
+      }
+    ],
+    "description": {
+      "short": "男女共に花嫁になりたい人大募集！",
+      "long": "時代は令和。男女問わず花嫁としての力を身につけるべき時代です。私達5Bが贈るこの企画に参加すれば、様々な修行を通してご自身の花嫁力を測定することができます。修行の内容としては料理や洗濯物などの家事力測定やウェディングセレモニーを模したゲームなど。時に優しく時に厳しいアシスタント達がみなさんの修行が充実したものになるようにお手伝いします。ぜひ一度、この企画に来て、自身の花嫁としての限界に挑戦してみて下さい。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5B-花嫁修行.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5B-花嫁修行.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5B",
+      "2"
+    ]
+  },
+  "124": {
+    "id": "124",
+    "type": "1",
+    "projectName": "ベイマックスのハッピーライド",
+    "organizationName": "5C",
+    "location": [
+      {
+        "floor": "2",
+        "name": "203",
+        "id": "i203"
+      }
+    ],
+    "description": {
+      "short": "一緒に楽しい音楽で盛り上がってハピネスレベルをあげよう！",
+      "long": "私たち5Cの企画はベイマックスのハッピーライドです！このアトラクションは、コーヒーカップに乗って7種類のノリノリな音楽と一緒に盛り上がれるアトラクションです！最近ディズニーに行けていない人、行った事がなくて体験してみたい人、ディズニーが好きでディズニーに来た気分になりたい人！どんな人でも楽しめる空間となっています！ベイマックスもヒロも私たちもたくさんの人が来て、来てくれた皆さんのハピネスレベルが上がる事を楽しみにしています！ぜひベイマックスのハッピーライド遊びに来てください！！ハピネスレベル上昇中！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5C-ベイマックスのハッピーライド.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5C-ベイマックスのハッピーライド.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5C",
+      "2"
+    ]
+  },
+  "125": {
+    "id": "125",
+    "type": "1",
+    "projectName": "Miya Park ",
+    "organizationName": "5D",
+    "location": [
+      {
+        "floor": "2",
+        "name": "202",
+        "id": "i202"
+      }
+    ],
+    "description": {
+      "short": "2人乗りのトロッコilluminationをするのでぜひきてください",
+      "long": "私たちは2人乗りのトロッコのIlluminationをします！担任の宮先生をメインにしたアトラクション「Miya Park」です！座ってみれるアトラクションなので疲れた際の休憩は勿論！！！家族や友達そして好きな人♡を誘って是非のんびりとした時間を楽しんでもらえればなと思っています！ 内装はキラキラとした感じでもしかしたら宮先生！？がいるかもしれないので探してみてください！ 外装はこだわりをもって作成しているので記念撮影に写真を撮ってみてはいかがでしょうか！ トロッコは安全面を考慮して板の厚さやキャスターなど工夫しているので不安だと思っている方も安心して乗れます！ 5-D組一同そして宮先生もお待ちしております！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5D-Miya Park .webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5D-Miya Park .webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5D",
+      "2"
+    ]
+  },
+  "126": {
+    "id": "126",
+    "type": "1",
+    "projectName": "変な家",
+    "organizationName": "5FH",
+    "location": [
+      {
+        "floor": "3",
+        "name": "312",
+        "id": "i312"
+      }
+    ],
+    "description": {
+      "short": "あなたはきっとその家の恐怖に直面する",
+      "long": "みなさんご存知の方も多いと思いますが，僕たちがコンセプトとしている「変な家」とは有名YouTuberの雨穴さんが原作の短編ホラー小説で近年映画化もされ，大変評判のある ホラーものとして人気が出ています。僕たちの実際の企画では原作や映画の一部の ストーリー，小物，デザインなど，一度「変な家」をみてくださった方には一目見てわかるような演出を取り入れています。また，「変な家」を知らない方でも楽しめるよう，お化け屋敷としての怖さにも力を入れています。この企画を見かけた場合にはぜひ立ち寄ってみてください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5FH-変な家.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5FH-変な家.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": true,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5FH",
+      "3"
+    ]
+  },
+  "127": {
+    "id": "127",
+    "type": "1",
+    "projectName": "マリオカート5G",
+    "organizationName": "5G",
+    "location": [
+      {
+        "floor": "2",
+        "name": "205",
+        "id": "i205"
+      }
+    ],
+    "description": {
+      "short": "アイテムを投げて得点を競おう！",
+      "long": "みなさんがカートに乗ってコースを駆け巡る「マリオカート」がファイブジーになって登場！シリーズ最多2人のキャラクターが、教室のいろいろな場所を走ります。ドリフトやロケットスタート、ミニターボやスピンなど、様々なテクニックを使わずに競っていきます。レース前に手に入る色々なアイテム。コウラを投げてアイテムボックスに入れたり、キノコを使ってダッシュしなかったり、上手く使えば一気に逆転も！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5G-マリオカート5G.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5G-マリオカート5G.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5G",
+      "2"
+    ]
+  },
+  "128": {
+    "id": "128",
+    "type": "1",
+    "projectName": "可愛くてごめん",
+    "organizationName": "5I",
+    "location": [
+      {
+        "floor": "2",
+        "name": "206",
+        "id": "i206"
+      }
+    ],
+    "description": {
+      "short": "可愛くてごめん❤️",
+      "long": "こんにちは私たち5年I組の可愛くてごめんです！うちのクラスではカードやサイコロを使った様々なゲームを楽しめ、さらに可愛くてごめんなフォトスポットを用意してあります開智発表会での思い出を写真に残してみてはどうでしょうかさらに受験生限定で雑談会実施！開智生のリアルを聞けちゃうかも！？ 可愛くてごめんなスタッフが待つうちのクラスに是非足を運んでください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5I-可愛くてごめん.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5I-可愛くてごめん.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5I",
+      "2"
+    ]
+  },
+  "129": {
+    "id": "129",
+    "type": "1",
+    "projectName": "世にも奇妙な迷路",
+    "organizationName": "5J",
+    "location": [
+      {
+        "floor": "3",
+        "name": "303",
+        "id": "i303"
+      }
+    ],
+    "description": {
+      "short": "世にも奇妙な迷路是非お越しください！",
+      "long": "ある夏の夜、男女4人組の高校生は肝試しをしようと計画した。彼らの通う学校には奇妙な噂があり夜中の12時から12時3分の3分間5年J組の教室にいると世にも奇妙な現象が起こるというのだ。その噂を確かめようと4人組は2ペアに分かれ、まず最初のペアが学校に入ったが、特にこれといった異変は起きず戻ってきた。続いて次のペアも入り5年J組の教室に辿り着いたが何も起こらなかった。あの噂は嘘だったのかと考えながら出口まで歩いたが、いくら校舎を歩いても出口には辿り着けず同じ場所をループしていることに気づいた。なぜなのかわからないまま脱出を試し見る。さて、この2人は無事に脱出できるのか？そして、なぜ最初の二人は脱出することができたのか？"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5J-世にも奇妙な迷路.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5J-世にも奇妙な迷路.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5J",
+      "3"
+    ]
+  },
+  "130": {
+    "id": "130",
+    "type": "1",
+    "projectName": "廃病院　開智隔離病棟",
+    "organizationName": "5KL",
+    "location": [
+      {
+        "floor": "2",
+        "name": "200",
+        "id": "i200"
+      }
+    ],
+    "description": {
+      "short": "医系クラスによる本格的な「謎解き×お化け屋敷」をぜひ楽しんでください！",
+      "long": "舞台はとある感染症の流行により廃れてしまった病院。かつては感染症治療の最前線で戦っていた廃病院には、感染症に罹患してしまった医師たちと治療に必要なワクチンの在処を示す謎が残されていた。 　ご来校の皆様には、廃病院を訪れた医師の一人として、病院内に残された謎を解いてワクチンを手に入れていただきます。謎を解いている途中に、医師たちが脅かしてくることがあるので、ご注意を。無事に謎を解き、ワクチンを手に入れることはできるのか？ 　5学年の医系クラスが2クラス合同で行う、本格的な「謎解き×お化け屋敷」をぜひお楽しみください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5KL-廃病院　開智隔離病棟.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5KL-廃病院　開智隔離病棟.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": true,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "5KL",
+      "2"
+    ]
+  },
+  "131": {
+    "id": "131",
+    "type": "1",
+    "projectName": "開智相談窓口",
+    "organizationName": "28期生徒会",
+    "location": [
+      {
+        "floor": "4",
+        "name": "409B",
+        "id": "i409B"
+      }
+    ],
+    "description": {
+      "short": "二十八期生徒会役員が、受験生の皆様のお悩みや疑問にお答えします！",
+      "long": "　二十八期生徒会役員による、お悩み相談室を開催します！ \n　受験生や保護者の皆さまの抱えている、受験のお悩み、開智についての疑問などに積極的にお答えします。 \n　現役開智生の目線から、通常の学校説明会では知ることのできないリアルな開智の日常をお話しします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/28期生徒会-開智相談窓口.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/28期生徒会-開智相談窓口.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "28期生徒会",
+      "4"
+    ]
+  },
+  "132": {
+    "id": "132",
+    "type": "1",
+    "projectName": "古本市",
+    "organizationName": "図書館委員会",
+    "location": [
+      {
+        "floor": "4",
+        "name": "408C",
+        "id": "i408C"
+      }
+    ],
+    "description": {
+      "short": "様々なジャンルの本を用意してお待ちしてます！  ",
+      "long": "図書委員会です！ 今年も去年と同じく古本市を行います。ノベライズから絵本、矢内スペシャルなど学校中から集めた様々なジャンルの本を多数用意しています。もしかしたら、あなたの探している1冊に出会えるかもしれません。ぜひ来てみてください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/図書館委員会-古本市.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/図書館委員会-古本市.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "図書館委員会",
+      "4"
+    ]
+  },
+  "133": {
+    "id": "133",
+    "type": "1",
+    "projectName": "石鹸作り",
+    "organizationName": "保健委員会",
+    "location": [
+      {
+        "floor": "2",
+        "name": "生物室",
+        "id": "i生物室"
+      }
+    ],
+    "description": {
+      "short": "日々の手洗いが楽しくなる様な自分だけの石鹸を作ってみませんか？",
+      "long": "こんにちは保健委員会です！私たちと一緒に様々な種類と色の石鹸を作ってみませんか？　保健委員会は今年グリセリンソープを使い、石鹸作りをやっています。石鹸作りは小さいお子さんやこれから受験を考えている方々や親子さんでも楽しめて、危険な工程もなく、１組に一人保健委員が付くのでとても安全に楽しむことができます。作った石鹸は実際にお家に持ち帰って使うことができお土産にも開発での思い出作りにもぴったり　お客様が楽しめる様に全力を尽くしますのでぜひ来てください！　*注意　石鹸を作る時に乾かすがあり数時間後に取りに来るためそこは注意してください。　また、予約制なので予約も忘れずに(予約は企画場所で行えます)"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/保健委員会-石鹸作り.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/保健委員会-石鹸作り.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "保健委員会",
+      "2"
+    ]
+  },
+  "134": {
+    "id": "134",
+    "type": "1",
+    "projectName": "科学部",
+    "organizationName": "科学部",
+    "location": [
+      {
+        "floor": "2",
+        "name": "化学室",
+        "id": "i化学室"
+      }
+    ],
+    "description": {
+      "short": "スライム・葉脈標本作り体験できます！",
+      "long": "皆さん1度不思議な科学の世界に触れてみませんか？\n今回の科学部では昨年好評だった、スライムや葉脈標本作りの体験ができるほかに、アクアポニックスやアフリカツメガエルを使った実験、プログラミングなど科学部員が長年行ってきた幅広いジャンルの研究についての発表も行います。科学に興味がある方もない方もぜひきてみてください。お待ちしています。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/科学部-科学部.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/科学部-科学部.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "科学部",
+      "2"
+    ]
+  },
+  "135": {
+    "id": "135",
+    "type": "1",
+    "projectName": "On time ニッポン",
+    "organizationName": "鉄道研究部",
+    "location": [
+      {
+        "floor": "2",
+        "name": "物理室",
+        "id": "i物理室"
+      }
+    ],
+    "description": {
+      "short": "On time ニッポンでは、「日本らしさ」をコンセプトに模型の走行・展示、運転シミュレーションの体験を行っていますので、ぜひいらっしゃってください！",
+      "long": "私たちが日常的に利用する日本の鉄道は、秒単位で管理・運行されており、これは世界的に見ても極めて珍しいことです。そんな日本の特異さ、いわば「日本らしさ」をコンセプトに、「On time ニッポン」では鉄道模型の走行や運行体験、日本各地を再現したジオラマの展示、運転シミュレーションの体験を行っています。また、校舎外の駐輪場前では5インチゲージと呼ばれるミニ電車（KSE）を運行していますので、ぜひ乗車してみてください。皆様がいらっしゃるのを心からお待ちしております！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/鉄道研究部-On time ニッポン.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/鉄道研究部-On time ニッポン.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "鉄道研究部",
+      "2"
+    ]
+  },
+  "136": {
+    "id": "136",
+    "type": "1",
+    "projectName": "華道部",
+    "organizationName": "華道部",
+    "location": [
+      {
+        "floor": "5",
+        "name": "501",
+        "id": "i501"
+      }
+    ],
+    "description": {
+      "short": "作品展示やブーケ作り体験を行うのでぜひ来てください！",
+      "long": "華道部では、ブーケ作り体験とハーバリウム作り体験を行います。 ブーケ作り体験は14日（土）と15日（日）の2回、ハーバリウム作り体験は14日（土）の1回を予定していて、定員はそれぞれ20人です。整理券をお配りします。 ブーケ作りは生のお花を使うので、季節のお花を楽しみながら作ることができます。 お花が好きな人、華道に興味がある人はぜひ来てください！ それ以外の時間は生け花の作品展示を行います。様々な種類のお花を使って生けているので見ているだけでも楽しめます！ 花の香りに包まれて、ゆっくりと流れる時間の中でリラックスしてお過ごしください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/華道部-華道部.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/華道部-華道部.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "華道部",
+      "5"
+    ]
+  },
+  "137": {
+    "id": "137",
+    "type": "1",
+    "projectName": "Treasure Forest",
+    "organizationName": "ESS(英会話)部",
+    "location": [
+      {
+        "floor": "4",
+        "name": "408B",
+        "id": "i408B"
+      }
+    ],
+    "description": {
+      "short": "自分の出来る限り、楽しく英語を使ってクイズを解いて、ESS部に眠るお宝をGETしよう！",
+      "long": "Hello, how's your day going? ESS部です！英語のクイズを解いて、ESS部に眠るお宝をGETしてみませんか？待って待って、英語って文字が見えたからって逃げないでください！！！ESS部ではクイズの英語のレベルを沢山設定し、老若男女問わず英語を楽しんでもらえるようにしています。何回でも挑戦していいので、簡単~難しい問題まで、チャレンジしてみてください！時間制限を設けており、待ち時間も少なめなため、他のアトラクションを楽しむついでに寄ってみてください！ いつでも大歓迎ですので是非いらっしゃってみてください！ Break a leg!"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ESS(英会話)部-Treasure Forest.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ESS(英会話)部-Treasure Forest.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "ESS(英会話)部",
+      "4"
+    ]
+  },
+  "138": {
+    "id": "138",
+    "type": "1",
+    "projectName": "ちはやふるの世界へようこそ",
+    "organizationName": "文芸部競技かるた部門",
+    "location": [
+      {
+        "floor": "4",
+        "name": "409A",
+        "id": "i409A"
+      }
+    ],
+    "description": {
+      "short": "お昼頃には袴を着た部員による試合の見学、その他の時間には競技かるた体験ができます！",
+      "long": "競技かるたとは「畳の上の格闘技」とも呼ばれる、百人一首の書かれた札を使って行う競技です。\n 土曜日は10:30〜12:30頃、日曜日は11:00〜13:00頃に袴を着た部員による模範試合を行います。試合自体は時間のかかるものですが、少し覗くだけでも来ていただけたら嬉しいです。 \nその他の時間は、かるたを使ったゲームなどが行える体験ブースを用意しています。かるたの経験がない人でも楽しめるものになっているので、どのようなものか気になっている方は一度寄ってみてはいかがでしょうか？\n 来ていただいた方にはちょっとしたプレゼントも用意しています！ ぜひお越しください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/文芸部競技かるた部門-ちはやふるの世界へようこそ.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/文芸部競技かるた部門-ちはやふるの世界へようこそ.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "文芸部競技かるた部門",
+      "4"
+    ]
+  },
+  "139": {
+    "id": "139",
+    "type": "1",
+    "projectName": "書誌「シクラメン」",
+    "organizationName": "文芸部",
+    "location": [
+      {
+        "floor": "5",
+        "name": "504",
+        "id": "i504"
+      }
+    ],
+    "description": {
+      "short": "「燎」をテーマとした部誌を配布します。",
+      "long": "こんにちは、文芸部創作部門です！来てくださった方には、「篝火」をテーマに作成した部誌を配布します。部員たちの個性が詰まった面白い作品を集めたので、ぜひ読んでみてください。また、私たちの部屋には、歴代の部誌が展示されており、それを読むスペースも設けています。開発はとても楽しいですが、その分疲れるので、例年休憩場所としても使われています。少しでも興味が湧いた方や、はしゃぎ疲れて静かなところに行きたくなった方など、ぜひいらしてみてください。お待ちしています！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/文芸部-書誌「シクラメン」.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/文芸部-書誌「シクラメン」.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "文芸部",
+      "5"
+    ]
+  },
+  "140": {
+    "id": "140",
+    "type": "1",
+    "projectName": "Pixi部2024",
+    "organizationName": "美術部",
+    "location": [
+      {
+        "floor": "5",
+        "name": "500",
+        "id": "i500"
+      }
+    ],
+    "description": {
+      "short": "イラスト展示と部誌としおり配ってます！ぜひ来てね〜",
+      "long": "Pixi部2024美術部です！今年の美術部のテーマは「青春」です！部員がテーマに沿って描いたイラスト展示をします。また、ファンアート（二次創作）もあります！あなたの“推し”がいるかも！ぜひ探しに来てください(^^)来てくださった方には、しおりをプレゼント！今年度は部誌も制作しました！！！無料です（笑）遠慮なくお持ち帰りください。絵を描くのが好きな人も、見るのが好きな人も、アニメ好きな人も、そうじゃない人もみんな来てね〜＼(^^)／"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/美術部-Pixi部2024.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/美術部-Pixi部2024.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "美術部",
+      "5"
+    ]
+  },
+  "141": {
+    "id": "141",
+    "type": "1",
+    "projectName": "将棋の間",
+    "organizationName": "囲碁将棋部",
+    "location": [
+      {
+        "floor": "4",
+        "name": "407C",
+        "id": "i407C"
+      }
+    ],
+    "description": {
+      "short": "一緒に将棋を楽しもう！",
+      "long": "こんにちは、囲碁将棋部です。今回の開発では黒板に貼ってある詰将棋などを解いたり特定の人物に平手で将棋に勝てれば景品をもらうことが可能です。また、友達同士で指すために来るのもいいですし部員と指すのもいいです。自分の実力に自信のある方、少し将棋をしたことはあるけど、あまり実力のある方ではない、という方、全く将棋をしたことのない方、誰でも大歓迎です。この機会に将棋に触れ、将棋への理解を深めてみるのはいかがでしょうか。ぜひお越しください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/囲碁将棋部-将棋の間.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/囲碁将棋部-将棋の間.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "囲碁将棋部",
+      "4"
+    ]
+  },
+  "142": {
+    "id": "142",
+    "type": "1",
+    "projectName": "バド部の森",
+    "organizationName": "バドミントン部",
+    "location": [
+      {
+        "floor": "5",
+        "name": "503",
+        "id": "i503"
+      }
+    ],
+    "description": {
+      "short": "シャトルキャッチや的当てなど、初めての方でも楽しめるようなゲームを用意しています！",
+      "long": "バドミントン部主催のミニゲーム企画です！ シャトルキャッチや的当てなど、初めての方でも楽しめるように、簡単なルールで気軽に遊べるゲームを用意しています！ バドミントン部ならではの景品もあります！ バドミントンの魅力を感じていただけること間違いなし！！ ぜひ、遊びに来てください！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/バドミントン部-バド部の森.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/バドミントン部-バド部の森.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "バドミントン部",
+      "5"
+    ]
+  },
+  "143": {
+    "id": "143",
+    "type": "1",
+    "projectName": "Let’s enjoy history!",
+    "organizationName": "歴史研究同好会",
+    "location": [
+      {
+        "floor": "5",
+        "name": "502",
+        "id": "i502"
+      }
+    ],
+    "description": {
+      "short": "歴史に興味ある人もない人も大歓迎！",
+      "long": "歴史研究同好会です！戦車や戦艦のプラモデルの展示、歴史検定、定期考査対策になるテストを準備して待ってます！受験生も在校生も楽しめると思います。歴史研究同好会に少しでも興味のある方はぜひきてください‼︎"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/歴史研究同好会-Let’s enjoy history!.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/歴史研究同好会-Let’s enjoy history!.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "歴史研究同好会",
+      "5"
+    ]
+  },
+  "144": {
+    "id": "144",
+    "type": "1",
+    "projectName": "Kitchen K",
+    "organizationName": "家庭科部",
+    "location": [
+      {
+        "floor": "1",
+        "name": "104",
+        "id": "i104"
+      }
+    ],
+    "description": {
+      "short": "もちっと白玉・ふわサクッと食感クロッフルを何とそれぞれ100円で販売します！ぜひ来てください！",
+      "long": "こんにちは！家庭科部です！家庭科部では今年、白玉とクロッフルを販売します！ 皆さんはクロッフルを知っていますか？クロワッサンをワッフルメーカーで焼いた、もちサクッと食感でとても美味しい、最近流行りの食べ物です！ さて､皆さんお楽しみの味つけについて、白玉は王道のきな粉砂糖に加え餡子生クリーム・キャラメルソースの3種類。クロッフルは蜂蜜、チョコソース生クリーム、抹茶生クリームの3種類です！今年は味のレパートリーを増やして、それぞれ3種類ずつ展開するのでお好みの味にも出会えると思います。さらに気になるお値段ですが2つともそれぞれ100円で販売する予定です！何度も試作を繰り返し、美味しく出来あがったのでぜひ買ってみて下さい！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/家庭科部-Kitchen K.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/家庭科部-Kitchen K.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": true,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "家庭科部",
+      "1"
+    ]
+  },
+  "145": {
+    "id": "145",
+    "type": "1",
+    "projectName": "ありとぷら2nd",
+    "organizationName": "ありとぷら2nd",
+    "location": [
+      {
+        "floor": "5",
+        "name": "507",
+        "id": "i507"
+      }
+    ],
+    "description": {
+      "short": "ディープな哲学対話とエキサイティングな哲学ワークショップを行います！",
+      "long": "私たちは、有志で哲学対話を行っています。え？哲学って、なんか難しそう？いえいえ、そんなことはありません。哲学対話って、何気なく気になるなあ、これって不思議だなあ、という“問い”を、一緒に話し合ってみよう！ただそれだけなんです。考えることが苦手でも、発言することが苦手でも大丈夫。私たち運営メンバーの中にも、勉強が苦手な人、人と話すことが苦手な人がいます。でも、何かに迷って生きていることは、どんな人でも、みんな一緒でしょう？まるっきり違う人間でも、“問い”を共有することはできるんです。さあ、哲学対話に興味をちょっとでも持ってくれたあなた、途中入退室は完全に自由なので、気軽にお越し下さい！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ありとぷら2nd-ありとぷら2nd.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ありとぷら2nd-ありとぷら2nd.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "ありとぷら2nd",
+      "5"
+    ]
+  },
+  "146": {
+    "id": "146",
+    "type": "1",
+    "projectName": "岩槻探究発表会",
+    "organizationName": "岩槻IB探究2024",
+    "location": [
+      {
+        "floor": "5",
+        "name": "508",
+        "id": "i508"
+      }
+    ],
+    "description": {
+      "short": "私たち岩槻IB探究グループ2024が行ってきた探究の成果を発表します。",
+      "long": "岩槻探究発表会は岩槻IB探究グループ2024が行った探究を紹介する企画です。ここでは岩槻人形などの探究成果の実物展示や着物の着付けという体験型展示をおこなっています。ぜひお越し下さい。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/岩槻IB探究2024-岩槻探究発表会.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/岩槻IB探究2024-岩槻探究発表会.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "岩槻IB探究2024",
+      "5"
+    ]
+  },
+  "147": {
+    "id": "147",
+    "type": "1",
+    "projectName": "海外研修報告会",
+    "organizationName": "国際教育",
+    "location": [
+      {
+        "floor": "4",
+        "name": "407B",
+        "id": "i407B"
+      }
+    ],
+    "description": {
+      "short": "海外研修の思い出を語ります！",
+      "long": "海外語学研修での経験を通じて得た学びや感動を、写真やエピソードとともにお届けします！研修先の文化や言語を現地の人々と直接交流することで深く理解し、また、自分自身の成長を感じた瞬間などをお話しします。皆さんも異文化交流の楽しさや学びの大切さを感じ取っていただけるはずです。ぜひ足を運んで、私たちの体験を一緒に共有してください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/国際教育-海外研修報告会.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/国際教育-海外研修報告会.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "国際教育",
+      "4"
+    ]
+  },
+  "148": {
+    "id": "148",
+    "type": "1",
+    "projectName": "開智お城サミット",
+    "organizationName": "開智お城サミット",
+    "location": [
+      {
+        "floor": "5",
+        "name": "509",
+        "id": "i509"
+      }
+    ],
+    "description": {
+      "short": "ご来城お待ちしております。",
+      "long": "開智お城サミットです。私たちは有志企画として参加します。今年の開発では昨年より大幅に向上し、みなさんに興味を持ってもらえるような城の紹介やレポートの頒布、さまざまな城の模型や写真、パンフレットの展示を行います。また、クイズも実施します！クイズ正解者には何か景品があるかも！？日本の城だけでなく、外国の城も紹介します。この企画は生徒のみならず保護者を始めとする大人の方にも楽しんでいただけるような企画となっております。もちろん小学生の方にもお楽しみいただけます。昨年も多くの世代の方からご好評を賜わりました。城に興味がある方もそうでない方もメンバーが城の魅力や面白さが伝わるように説明するのでぜひお立ち寄りください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/開智お城サミット-開智お城サミット.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/開智お城サミット-開智お城サミット.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "開智お城サミット",
+      "5"
+    ]
+  },
+  "149": {
+    "id": "149",
+    "type": "1",
+    "projectName": "green！green！green！",
+    "organizationName": "sgdsコミュニティ＆プレシャスプラスチック開智",
+    "location": [
+      {
+        "floor": "3",
+        "name": "308C",
+        "id": "i308C"
+      }
+    ],
+    "description": {
+      "short": "プラスチックのリサイクル体験とこれまでの活動報告の展示を行います。",
+      "long": "green！green！green！　 こんにちは、sdgsコミュニティ＆Precious Plastic開智です。私たちは25期fdコースのみんなと開智でsdgs推進を目標に活動を行ている有志団体です。遂に念願の開発への出店がかないました！ 今年の開発では来て下さった皆様にsdgsを新しい視点から見えるようになる体験、展示を行います。具体的には「Precious Plastic 」というプラスチックのリサイクルの作成体験と今年開智内に設置したグリーンカーテンなどのこれまでの活動の展示をご用意しております。是非ともご来場お待ちしております。来てくれたらプレゼントがあるかも！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/sgdsコミュニティ＆プレシャスプラスチック開智-green！green！green！.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/sgdsコミュニティ＆プレシャスプラスチック開智-green！green！green！.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "sgdsコミュニティ＆プレシャスプラスチック開智",
+      "3"
+    ]
+  },
+  "150": {
+    "id": "150",
+    "type": "1",
+    "projectName": "STAR WARS Project",
+    "organizationName": "Jedi order",
+    "location": [
+      {
+        "floor": "4",
+        "name": "408A",
+        "id": "i408A"
+      }
+    ],
+    "description": {
+      "short": "遠い昔、はるか彼方の銀河系で...",
+      "long": "遠い昔、はるか彼方の銀河系で...惑星ワホンに不時着したジェダイ、ゲンジュが見たものとは？今年は一本完結型です"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Jedi order-STAR WARS Project.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Jedi order-STAR WARS Project.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "Jedi order",
+      "4"
+    ]
+  },
+  "151": {
+    "id": "151",
+    "type": "1",
+    "projectName": "ホストとオリジナルゲーム、シャンパンタワーも！",
+    "organizationName": "黒と白の館",
+    "location": [
+      {
+        "floor": "3",
+        "name": "308B",
+        "id": "i308B"
+      }
+    ],
+    "description": {
+      "short": "ホストに扮したスタッフとゲームをしていただきます。ゲームは三種類、繰り返しご来館いただくことで全てのゲームをお楽しみいただけます。またゲームに参加していただくとスタンプGET！スタンプを全てお貯めいただくと、シャンパンタワーのフォトスポットで写真が撮れます。姫、王子のご来館お待ちしております。",
+      "long": "ホストに扮したスタッフとゲームをしていただきます。ゲームは三種類、繰り返しご来館いただくことで全てのゲームをお楽しみいただけます。またゲームに参加していただくとスタンプGET！スタンプを全てお貯めいただくと、シャンパンタワーのフォトスポットで写真が撮れます。姫、王子のご来館お待ちしております。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/黒と白の館-ホストとオリジナルゲーム、シャンパンタワーも！.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/黒と白の館-ホストとオリジナルゲーム、シャンパンタワーも！.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "黒と白の館",
+      "3"
+    ]
+  },
+  "152": {
+    "id": "152",
+    "type": "1",
+    "projectName": "人間動物園",
+    "organizationName": "俺たちみたいにはなるな！",
+    "location": [
+      {
+        "floor": "3",
+        "name": "308A",
+        "id": "i308A"
+      }
+    ],
+    "description": {
+      "short": "ガイドと一緒にカワイイ動物を観察、餌やり体験！zooっと見ていたい！",
+      "long": "日々の疲れを癒すために動物園はいかがですか⁇人間動物園へようこそ。石油王兼オーナーのサイトー氏の多額の寄付金によってこの動物園は設立されました。  人間動物園と聞いて不安に思ったそこのあなた。安心してください。当園では世界中から集められた珍しい動物をツアーガイドとともに安全で楽しく、快適に観察することができます。彼らはとってもお腹が空いているのでおやつをあげて餌やりをしてあげましょう。きっとよろきびますよ。  普段のツアーにはお金がかかるのですが、今回は特別にサイトー氏のおかげでなんと無料で参加できることが決定しました。参加希望者は是非ご予約を！（現地予約も可能です）皆様のご来園心よりお待ちしております。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/俺たちみたいにはなるな！-人間動物園.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/俺たちみたいにはなるな！-人間動物園.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "俺たちみたいにはなるな！",
+      "3"
+    ]
+  },
+  "153": {
+    "id": "153",
+    "type": "1",
+    "projectName": "開智王4th",
+    "organizationName": "開智クイズ研究会",
+    "location": [
+      {
+        "floor": "3",
+        "name": "309A",
+        "id": "i309A"
+      }
+    ],
+    "description": {
+      "short": "今年で4回目となるクイズ大会です。皆さまのご参加をお待ちしております。",
+      "long": "こんにちは。開智クイズ研究会です。9月15日(日曜日)に早押しクイズ大会「開智王」を開催します。クイズをやったことがない方も大歓迎です。\n\nルール等\n*本大会は、予選、準決勝、決勝の三つに分かれるトーナメント方式で行います。\n*予選と準決勝は先に5問正解できた3人が次のステージにに勝ち進みますが、3問間違えた時点で敗退となります。\n*決勝は、先に7問正解できた人が優勝となり、3問間違えた時点で敗退となります。\n*1問につき答えられるのは1人までです。\n*予選、準決勝で30問、決勝では50問を出題します。問題を全て出題した時点で勝負が決まらなかった場合、正解数が多かった順に勝ちとします。\n\nまた、土曜日に早押し体験会を実施する予定です。皆さまのご参加をお待ちしております。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/開智クイズ研究会-開智王4th.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/開智クイズ研究会-開智王4th.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "開智クイズ研究会",
+      "3"
+    ]
+  },
+  "154": {
+    "id": "154",
+    "type": "1",
+    "projectName": "Bushido café ",
+    "organizationName": "Bushido café",
+    "location": [
+      {
+        "floor": "1",
+        "name": "102",
+        "id": "i102"
+      }
+    ],
+    "description": {
+      "short": "千客万来！Bushido café!",
+      "long": "Bushido café は「和」をモチーフに、京都さながらの雰囲気を作り上げています。料理も極上の和菓子や抹茶ラテなど、映えること間違いなし！店の前にはフォトスポットもあり、うってつけの休憩場所となります。是非Bushido café にご来店ください！店員一同お待ちしております。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Bushido café-Bushido café .webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Bushido café-Bushido café .webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": true,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "Bushido café",
+      "1"
+    ]
+  },
+  "155": {
+    "id": "155",
+    "type": "1",
+    "projectName": "COLD RUSH",
+    "organizationName": "水泳部有志連盟",
+    "location": [
+      {
+        "floor": "1",
+        "name": "103",
+        "id": "i103"
+      }
+    ],
+    "description": {
+      "short": "ワンコインかき氷販売中！",
+      "long": "こんにちは！水泳部有志連盟 COLD RUSH です！今年も水泳部伝統の\"かき氷\"を販売します♡ トッピング付きで100円という驚愕のお値段‥‥！ブルーハワイ、いちご、抹茶、マンゴー、コーラ、カルピスの全６種類をご用意しています！盛り上がる開発で、かき氷を食べて気分転換しませんか？一生懸命おいしいかき氷を提供します！ぜひご賞味くださいませ！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/水泳部有志連盟-COLD RUSH.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/水泳部有志連盟-COLD RUSH.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": true,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "水泳部有志連盟",
+      "1"
+    ]
+  },
+  "156": {
+    "id": "156",
+    "type": "1",
+    "projectName": "彩墨光展",
+    "organizationName": "坂本凜太郎",
+    "location": [
+      {
+        "floor": "",
+        "name": "Rouka",
+        "id": "iRouka"
+      }
+    ],
+    "description": {
+      "short": "絵画の「彩」、書道の「墨」、写真の「光」を感じられる展示会です。",
+      "long": "今年の文化祭では、絵画や書道など、さまざまな芸術作品を展示いたします。 生徒と教師が協力して制作した作品が一堂に会し、感性豊かな表現をお楽しみいただけます。展示会は、訪れる方々に日常から少し離れた芸術の世界へと誘い、心の豊かさを感じていただく場となることでしょう。ぜひ、この機会に皆様のご来場をお待ちしております。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/坂本凜太郎-彩墨光展.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/坂本凜太郎-彩墨光展.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "坂本凜太郎",
+      ""
+    ]
+  },
+  "157": {
+    "id": "157",
+    "type": "1",
+    "projectName": "KSE",
+    "organizationName": "開智急行",
+    "location": [
+      {
+        "floor": "null",
+        "name": "Outside",
+        "id": "iOutside"
+      }
+    ],
+    "description": {
+      "short": "この企画では、5インチゲージと呼ばれるミニ電車（KSE）を運行していますので、ぜひ乗りに来てください！",
+      "long": "この企画では、5インチゲージと呼ばれるミニ電車（KSE）を運行しています。このミニ電車は、部員の手作りで、今年度は東武8111fを制作しました。ぜひ、乗車しにきてください！また、校舎内の物理室で、鉄道模型の走行や運転体験、ジオラマの展示、運転シミュレーションの体験を行なっていますので、ぜひいらしてください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/開智急行-KSE.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/開智急行-KSE.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "開智急行",
+      "null"
+    ]
+  },
+  "158": {
+    "id": "158",
+    "type": "1",
+    "projectName": "KSサービス",
+    "organizationName": "KSサービス",
+    "location": [
+      {
+        "floor": "1",
+        "name": "100",
+        "id": "i100"
+      }
+    ],
+    "description": {
+      "short": "No Scripts",
+      "long": "No Scripts"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/KSサービス-KSサービス.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/KSサービス-KSサービス.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": true,
+    "isStage": false,
+    "isOrganizationExist": true,
+    "tag": [
+      "クラス",
+      "KSサービス",
+      "1"
+    ]
+  },
+  "201": {
+    "id": "201",
+    "type": "2",
+    "projectName": "吹奏楽部",
+    "organizationName": "吹奏楽部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "今年も開発に開智吹奏楽部の最高のステージがやってきた！",
+      "long": "こんにちは！開智吹奏楽部です！！🎺\n 私たちはWe are,ENTERTAINERS!!を胸に日々活動しています！ 今回の開発では、今年流行ったVaundyの曲やQUEENの名曲、有名なCMソングなどなど…色々なジャンルの曲が盛りだくさんです！ 有名どころばかりなのでどんな人でも1回は聴いたことがあるメロディーがたくさんあります！！面白くなかった、楽しくなかったなんて言わせません！ 60人程の大人数で演奏することで編み出される重厚感のある音楽と、ダンスや振り付けなどポップな演出が組み合わさった開智吹奏楽部の演奏は格別です✨ 吹奏楽部の演奏を見たことがないと言う方も！全部きてくれていると言う方も！！どんな人でも大歓迎です🙌🏻最高のエンターテインメントを体験しませんか？一緒に盛り上がっていきましょう！！！🔥"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/吹奏楽部-吹奏楽部.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/吹奏楽部-吹奏楽部.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "吹奏楽部",
+      "null"
+    ]
+  },
+  "202": {
+    "id": "202",
+    "type": "2",
+    "projectName": "ギター部",
+    "organizationName": "ギター部〜Band〜",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "ギター部の本気見せたりますわ！！！！！",
+      "long": "ギター部です！！学校には来るけど部活に来ないやつ、学校には来ないけど部活には来るやつetc..... 毎日ゆるーく活動している私たちですが、きめる時はきめます。文化部、いや全部活の中で1番盛り上げられるのはギター部です！！今回は2日間で12曲、両日フィリアホールトップバッターで頑張ります！！開発初めはギター部で盛りあがって行きませんか？？ギター部の本気見せたります！！ NO MUSIC NO LIFE‼️"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ギター部〜Band〜-ギター部.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ギター部〜Band〜-ギター部.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "ギター部〜Band〜",
+      "null"
+    ]
+  },
+  "203": {
+    "id": "203",
+    "type": "2",
+    "projectName": "5Gs",
+    "organizationName": "5Gs",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "5世代合同バンド",
+      "long": "5世代合同バンド、5Gsです！全身が揺れる音楽、それがRock！Rockの真髄、見せましょう！（スペシャルゲストあり）"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5Gs-5Gs.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5Gs-5Gs.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "5Gs",
+      "null"
+    ]
+  },
+  "204": {
+    "id": "204",
+    "type": "2",
+    "projectName": "3-Strings",
+    "organizationName": "3-Strings",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "みんなで歌って楽しみましょう！",
+      "long": "こんにちは！3-Strings(スリーストリングス)です！\nドラム、ベース、ギターの3人のグループなので、それぞれの音を感じられるバンドになっています！子供から大人まで全員で楽しんでいってください👋🎶\n\n～セットリスト～\n1.HANABI(Mr.Children)\n2.名もなき詩(Mr.Children)\n3.日曜日(back number)\n4.水平線(back number)\n5.曇天(DOES)\n-encore-"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3-Strings-3-Strings.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3-Strings-3-Strings.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "3-Strings",
+      "null"
+    ]
+  },
+  "205": {
+    "id": "205",
+    "type": "2",
+    "projectName": "有志バンド",
+    "organizationName": "Blue sky",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "最高のパフォーマンスで観客全員を盛り上げて見せるからぜひ見に来てください！",
+      "long": "僕たちBlue skyは去年の開発でバンドに強い憧れを持ち、音楽企画に出るために結成した有志バンドです。メンバーはギターボーカル担当の古橋昂樹、リードギター担当の山﨑慈朗、ベース担当の相沢祐太朗、ドラム担当の吉田丈慈、キーボード担当の志田琉斗です。僕たちは絆を深め合い、多くの練習を重ねてきました。開発当日では僕たちはどのバンドよりも最高のパフォーマンスで観客全員を盛り上げて見せますので時間がある方はぜひ見にきてください。そして僕たちはさらに高みを目指すために開発だけではなく、ライブハウスなどといった学校以外の場所でも活躍をしたいと考えています。応援お願いします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Blue sky-有志バンド.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Blue sky-有志バンド.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Blue sky",
+      "null"
+    ]
+  },
+  "206": {
+    "id": "206",
+    "type": "2",
+    "projectName": "changers",
+    "organizationName": "changers",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "「音楽を心の底から楽しむ」ライブを全力で追い求めます！！",
+      "long": "こんにちは、開発の最高学年である24期の5人で活動している有志バンド、changersです！僕たちは2023年5月に結成し、昨年の開発や今年4月に主催した24期バンドフェスでのライブを経て、現在に至ります。\n\n「changers」という名前には、メンバー全員がそれぞれの個性を放ち、またライブにて、これまでにないような感動を皆さんに届けたいという強い意志が込められています。今年の開発では、奇怪な雰囲気のJ-POP、激しいロック、そしてピアノが印象的なアップテンポな洋楽など、6つの多彩な楽曲を披露し、皆さんを音楽の世界へ引き込みます。\n\n音楽に心を揺さぶられ、最高の一体感を感じたい方、ぜひライブにお越しください！僕たちが皆さんと一緒に最高の瞬間を創り出します。ライブでお待ちしています！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/changers-changers.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/changers-changers.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "changers",
+      "null"
+    ]
+  },
+  "207": {
+    "id": "207",
+    "type": "2",
+    "projectName": "バンド発表",
+    "organizationName": "ckky",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "24期のガールズバンドです！きてね！",
+      "long": "24期4人のガールズバンドckkyです！4人の頭文字をとってゴリ押しでクッキーって読みます！ 全員マイペースで普段はのんびりしていますがこのバンドを成功させたい思いは一緒です。 最後の開発悔いのないよう全力で頑張ります！！誰でも大歓迎、大人から子供まで観客全員絶対に楽しませるのでぜひ来てください！一緒にもりあがりましょう！！！！待ってます！！ インスタもフォローしてね→@ckky.24"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ckky-バンド発表.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ckky-バンド発表.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "ckky",
+      "null"
+    ]
+  },
+  "208": {
+    "id": "208",
+    "type": "2",
+    "projectName": "Cotton club",
+    "organizationName": "Cotton club",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "生徒はもちろん 保護者の方もぜひ見に来てください！",
+      "long": "Cotton club です！ 7人で活動してます｡  バンドだけでなくアコギを使った弾き語りもやります｡また､保護者の方も知っているような少し昔の曲もあるので生徒だけでなく保護者の方もぜひ聴きに来てください！私たち24期にとって最後のイベントである開発｡ みんなで最高に盛り上がりましょう!  土曜日の14:50〜です！フィリアホールで待ってます！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Cotton club-Cotton club.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Cotton club-Cotton club.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Cotton club",
+      "null"
+    ]
+  },
+  "209": {
+    "id": "209",
+    "type": "2",
+    "projectName": "Gathering Beats",
+    "organizationName": "Gathering Beats",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "メンバーが4人で少ないですが頑張りました、楽しんでください。",
+      "long": "メンバーが4人で少ないですが頑張りました、楽しんでください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Gathering Beats-Gathering Beats.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Gathering Beats-Gathering Beats.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Gathering Beats",
+      "null"
+    ]
+  },
+  "210": {
+    "id": "210",
+    "type": "2",
+    "projectName": "Hitodama",
+    "organizationName": "Hitodama",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "僕たちと音楽で最高の文化祭を作ろう！",
+      "long": "こんにちは！新生4年生バンドhitodamaです！私たちは自分たちの長所を伸ばしながら今年、来年と開智発表会をバンド演奏で盛り上げていこうと思います！僕たちはまだまだ初心者集まりですが、皆さんの心を掴んで最高潮の気分で開発を楽しんでいってください！ぜひ僕たちのバンドに足を運んで貰えればと思います！ちょっとだけ裏情報だと、ボーカルがあの有名アーティストの声そっくりだったり？…とそんな感じで皆さんと一緒に盛り上がって最高の文化祭を作りたいと思っています！ぜひ僕たちhitodamaをよろしくお願いします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Hitodama-Hitodama.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Hitodama-Hitodama.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Hitodama",
+      "null"
+    ]
+  },
+  "211": {
+    "id": "211",
+    "type": "2",
+    "projectName": "NOVABEAT",
+    "organizationName": "NOVABEAT",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "僕ら新生バンドは、観客の心に打たれ続ける演奏を！！！",
+      "long": "どうも、NOVABEATです！僕たちはボーカル・ギター・ベース・ドラム・キーボードの5人で形成されている男子バンドです。 僕たちは男子バンドでは珍しいツインボーカルで、曲のデュエットなどは他では見ることのできない見所です！ 僕たちは今年の1月に結成しました。4月に行われた24期のバンドのみのフェスに向けて練習し始め、そのフェスが最初のステージで今回の開発は二度目のステージです！ 音楽経験者がほとんどで最初は躓きながらもみんなで試行錯誤し4月よりも観客の多い今回に緊張しながらも一緒に幾度も練習して今日のために完成させました！ 皆さんが知っている曲も絶対にあるはずです！ぜひお越しください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/NOVABEAT-NOVABEAT.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/NOVABEAT-NOVABEAT.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "NOVABEAT",
+      "null"
+    ]
+  },
+  "212": {
+    "id": "212",
+    "type": "2",
+    "projectName": "バンド",
+    "organizationName": "stella",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "saucydogやaikoなど誰もが一度は聞いたことがあるであろう曲を多く披露します！たくさんの人に楽しんでもらえるステージにします！ぜひ見にきてください！",
+      "long": "こんにちは！5年生バンドのStellaです！私たちのバンドではSaucydogやaikoなどたくさんの人が一度は聞いた事があるであろう曲を多く披露します！ボーカルの力強い歌声と繊細な楽器演奏で聴いている皆さんが曲に聴き惚れる上に、stellaに夢中になって30分もたった5分に感じてしまうかもしれません。そんな私たちStellaがステージで皆さんに来ていただけるのを待っています！来てくれたら泣いて喜びます！来なかったら末代まで後悔するステージにします！たくさんの人と盛り上がり、開発でいい思い出を残してもらえるように頑張りますのでぜひ見に来てください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/stella-バンド.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/stella-バンド.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "stella",
+      "null"
+    ]
+  },
+  "213": {
+    "id": "213",
+    "type": "2",
+    "projectName": "stickout",
+    "organizationName": "stickout",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "4人組ガールズバンドstickoutです！",
+      "long": "高二4人組ガールズバンドです！\n去年から1人チリに旅立ち5人から4人となりました！去年とは違った新しい私たちを見ていただけると嬉しいです。最後の文化祭なので楽しく演奏します！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/stickout-stickout.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/stickout-stickout.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "stickout",
+      "null"
+    ]
+  },
+  "214": {
+    "id": "214",
+    "type": "2",
+    "projectName": "The Lost Boys",
+    "organizationName": "The Lost Boys",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "時間一杯共に駆け抜けましょう！去年をコエール！みんなでホエール！",
+      "long": "この開発の中で一番お客さんと一体になって楽しめるライブをします！僕たちの音に身を委ねて、心の底から湧き上がる興奮をそのまま体で表現して伝えてください！周りのことは気にする必要はありません。普段は真面目に授業を受けてるあなたをその一瞬だけでも最高のバカにさせてあげたい。そんな非日常をぜひ体験して欲しいです。 そして投票一位になってその興奮の渦を体育館で巻き起こしたいです！あなたと一緒に音楽がしたい。The Lost Boys ぜひ一度覗きに来てください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/The Lost Boys-The Lost Boys.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/The Lost Boys-The Lost Boys.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "The Lost Boys",
+      "null"
+    ]
+  },
+  "215": {
+    "id": "215",
+    "type": "2",
+    "projectName": "Toplit",
+    "organizationName": "Toplit",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "Toplitです！セトリはほとんど世代で有名な曲で構成されています！みんな楽しめると思うので是非お越しください！",
+      "long": "初めまして！Toplitです 5人組バンドです！ セトリは中学生や高校生なら皆知っているJ-POPで構成されていて、音楽が好きな人はもちろん、あまり好きではないという人でも楽しめる選曲となっています！ 僕らは結成して間もなく開智では今年の開発が最初で最後のライブとなりますが、最高の思い出にできるよう精一杯演奏するのでみなさんも会場へ来て最高に盛り上がってください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Toplit-Toplit.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Toplit-Toplit.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Toplit",
+      "null"
+    ]
+  },
+  "216": {
+    "id": "216",
+    "type": "2",
+    "projectName": "エタノール76.2",
+    "organizationName": "エタノール76.2",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "今年の開発も、私たちの演奏で全力で盛り上げに行きます！",
+      "long": "こんにちは！高校2年生ガールズスリーピースバンド、エタノール76.2です！！ 普段は学内ライブやライブハウス等で演奏しています。コピー曲から自作オリジナル曲まで幅広く楽しんでいます！ エタノール76.2、覚えやすい名前だと思うので皆さんぜひここで覚えていってくれると嬉しいです！ 私たちにとってこの開発が学内最後の行事になります。まだまだ名残惜しいですが、私たちが出せる全力で！盛り上げに行きますのでよろしくお願いします！ この夏最後に、一緒に声出して楽しみましょう！フィリアホールで待ってます！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/エタノール76.2-エタノール76.2.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/エタノール76.2-エタノール76.2.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "エタノール76.2",
+      "null"
+    ]
+  },
+  "217": {
+    "id": "217",
+    "type": "2",
+    "projectName": "蛙化",
+    "organizationName": "蛙化",
+    "location": [
+      {
+        "floor": "null",
+        "name": "フィリア",
+        "id": "iフィリア"
+      }
+    ],
+    "description": {
+      "short": "時と場合によっては蛙化します。がんばります。",
+      "long": "人間の道の逆の裏、つまり対偶を征く我ら蛙化の、蛙化演奏を、聴け。正直何を言っているかわからないと思う。我らもわからない。練習の時も、バンド名を蛙化と書いたが故に、スタッフの人に半笑いで呼ばれるのがつらかった！バンド名を変えるか、と思うこともあった！蛙化を変えるか。おもしろいね。でもがんばった！だから聴け。耳をふさぎたくなるほどの演奏かもしれない。でも、聴け。それも蛙化だ。我らとともに、蛙化ロードを、ぜひ、歩もう。もはや世界のトレンドは、蛙化なのだ。ここで、蛙化の蛙化演奏を聴いて蛙化の虜になる際の大原則を、あらかじめお伝えしておこうと思う。読んでいなかったのならば、知らん。大原則は、観客である諸君も蛙化しなければならないということだ。共に楽しみ、共に蛙化しよう。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/蛙化-蛙化.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/蛙化-蛙化.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "蛙化",
+      "null"
+    ]
+  },
+  "218": {
+    "id": "218",
+    "type": "2",
+    "projectName": "ギター部〜Acoustic〜",
+    "organizationName": "ギター部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "鶴田結愛",
+      "long": "ギター部で一休みしていきませんか？"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ギター部-ギター部〜Acoustic〜.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ギター部-ギター部〜Acoustic〜.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "ギター部",
+      "null"
+    ]
+  },
+  "219": {
+    "id": "219",
+    "type": "2",
+    "projectName": "ベルトピア〜幸福への扉〜",
+    "organizationName": "ハンドベル部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "ハンドベル部は今回、キセキ、アンダーザシー、世界に一つだけの花、ケセラセラの有名な4曲を演奏するので是非聞きに来てください！",
+      "long": "こんにちは、ハンドベル部です！ 今回私達は、キセキ、アンダーザシー、世界に一つだけの花、そしてケセラセラの4曲を演奏します。どれも有名な曲なので知っている方が多いのではないでしょうか。 『世界に一つだけの花』では、初めて4年生以下のみで演奏をし、『ケセラセラ』の1部では5年生の3人だけが演奏するパートがあります。それらに注目して聞いてみてください！ また、ハンドベルの豆知識や次の楽曲の紹介なども行います。加えて、小松先生によるピアノ演奏もあります！ 音階ごとに分けられているベルを分担すると各々の持つベルが多くなり、難易度が高い曲もありますが、皆さんに楽しんでもらえるよう、練習頑張りました！是非聞きに来てください〜！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ハンドベル部-ベルトピア〜幸福への扉〜.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ハンドベル部-ベルトピア〜幸福への扉〜.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "ハンドベル部",
+      "null"
+    ]
+  },
+  "220": {
+    "id": "220",
+    "type": "2",
+    "projectName": "Arpeggio",
+    "organizationName": "Arpeggio",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "ピアノの連弾、ソロをやります！",
+      "long": "Arpeggioです！ピアノの連弾・ソロ演奏をします！有名な曲だけでなく、クラシック曲も弾くのでぜひ聴きに来てください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Arpeggio-Arpeggio.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Arpeggio-Arpeggio.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Arpeggio",
+      "null"
+    ]
+  },
+  "221": {
+    "id": "221",
+    "type": "2",
+    "projectName": "DJ　FALL",
+    "organizationName": "DJ　FALL",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "みんなで手を振って盛りあがろう(ﾟ∀ﾟ)o彡゜",
+      "long": "Hello Everybody‼︎開発恐らく初の音楽企画種である、DJ FALLです！僕は吹き抜けで口だけで奏でるbeatboxとそれを録音して演奏するloopstationを使って、開智の中心から全体を盛り上げていこうと思います！loopstationではあの有名なラップ曲や最近音ゲーに追加された平成の腕を振る名曲もあったり(ﾟ∀ﾟ)o彡゜という感じで、皆さんを巻き込みながら開発を盛り上げていければと思っています！ぜひ少しでも耳を傾けて見てください、必ず足が止まってしまうような演奏で皆さんが開発に来てよかったと思わせます！Hope you guys enjoy！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/DJ　FALL-DJ　FALL.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/DJ　FALL-DJ　FALL.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "DJ　FALL",
+      "null"
+    ]
+  },
+  "222": {
+    "id": "222",
+    "type": "2",
+    "projectName": "Resonate on the hill",
+    "organizationName": "Resonate on the hill",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "東岩槻全体に綺麗な音色が響き渡るように演奏したいと思います。ぜひ、聞きにきてください！",
+      "long": "みなさんこんにちは、この度開智発表会にてピアノを演奏させていただきますResonate On The Hillの姜と申します！今回演奏させていただく曲はEd Sheeranさんのperfectという曲とアナ雪のlet it goです。let it goには豪華ゲストが登場するという噂も…。岩槻区全体に響き渡るように演奏するつもりなので、ピアノの音が聞こえたら耳を傾けて聞いてくれると嬉しいです！よろしくお願いします。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Resonate on the hill-Resonate on the hill.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Resonate on the hill-Resonate on the hill.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "Resonate on the hill",
+      "null"
+    ]
+  },
+  "223": {
+    "id": "223",
+    "type": "2",
+    "projectName": "‪√‬MIKI",
+    "organizationName": "√MIKI",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "ピアノ歴13年、息の合った‪√‬MIKIのダイナミックな演奏をぜひ聴きに来て下さい。",
+      "long": "こんにちは！私たちは‪√‬MIKIです！この企画では連弾を4曲、ソロを1曲ずつ演奏します！年齢問わず誰もが一度は聴いたことのあるJPOPやクラシックを演奏します！ 私たちとって最後の文化祭を最高の形で終われるように半年以上前から練習を重ねてきました。ノリノリになれる曲もたくさんあるので、一緒に歌ったり、手拍子をして頂けたら嬉しいです！。皆さんの記憶に残るような演奏をお届けします！ぜひ聴きに来てください！吹き抜けで待ってます！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/√MIKI-‪√‬MIKI.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/√MIKI-‪√‬MIKI.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "√MIKI",
+      "null"
+    ]
+  },
+  "224": {
+    "id": "224",
+    "type": "2",
+    "projectName": "いちごミルク",
+    "organizationName": "いちごミルク",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "映画やドラマなどの曲を、連弾で演奏します。",
+      "long": "こんにちは いちごミルクです！ 私たちはピアノの連弾を行います。通常ピアノは1台を1人で弾くものですが、連弾では1台のピアノをプリモ、セカンドと呼ばれる２つのパートに分けて2人で演奏します。 今回の曲目は、ベートーヴェン交響曲第7番1楽章・名探偵コナンよりメインテーマ・Happiness・世界に一つだけの花です。主に映画やドラマ、アニメなどで使われている曲から盛り上がりそうなものを選曲しました。 私たちのピアノで楽しい時間を過ごしてくれると嬉しいです。 ぜひ、聴きに来てください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/いちごミルク-いちごミルク.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/いちごミルク-いちごミルク.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "いちごミルク",
+      "null"
+    ]
+  },
+  "225": {
+    "id": "225",
+    "type": "2",
+    "projectName": "桜＊花",
+    "organizationName": "桜＊花",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "小学生からの仲良し２人組でピアノと歌をお届けします！",
+      "long": "24期女子二人組で歌とピアノをお届けします。 有名な曲からリズムのいい明るい曲、ゆったりとした落ち着きのある曲など様々なジャンルの曲をピアノに合わせて歌を歌います。 歌とピアノの音色で音楽の楽しさや感動を与えられたらなと思っています。  特別ゲストとしてある先生にご出演して頂きます！ だれ先生でしょう？お楽しみに！  ぜひお越しください‼︎"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/桜＊花-桜＊花.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/桜＊花-桜＊花.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "音楽",
+      "桜＊花",
+      "null"
+    ]
+  },
+  "301": {
+    "id": "301",
+    "type": "3",
+    "projectName": "男女バレーボール部",
+    "organizationName": "男女バレーボール部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "",
+      "long": ""
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/男女バレーボール部-男女バレーボール部.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/男女バレーボール部-男女バレーボール部.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "男女バレーボール部",
+      "null"
+    ]
+  },
+  "302": {
+    "id": "302",
+    "type": "3",
+    "projectName": "バトンチア",
+    "organizationName": "バトンチア部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "開発の最後はバトンチアで盛り上がりましょう💫",
+      "long": "こんにちは！バトンチア部です！今年は両日体育館で披露します。1日目は体育館のフロアで、2日目は体育館のステージです。曲はディズニーの曲、洋楽からJ-POP まで幅広く披露します。 皆さんの知っている曲も多くあると思うので楽しみにしていてください。 1日目と2日目では衣装が変わり、曲によっても衣装が変わることもあるのでそこにもぜひ注目してみてください！ そしてこの舞台は24期が最後です。私たちの代にバトンタッチしてから1年間、最高の舞台を作り上げるために部員全員で練習に励んできました。 最後の舞台もきてくださった方たち皆さんに笑顔と元気を伝えられるようなものにします！ 2日間、私たちと一緒に最高の開発を作りませんか？ぜひ見に来てください！部員一同お待ちしてます！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/バトンチア部-バトンチア.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/バトンチア部-バトンチア.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "バトンチア部",
+      "null"
+    ]
+  },
+  "303": {
+    "id": "303",
+    "type": "3",
+    "projectName": "Amulet",
+    "organizationName": "Amulet",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "誰でも歓迎なので是非見に来てください！",
+      "long": "私達はAmuletと言う7人の女子ダンスグループです。全員5年生で最初で最後の有志活動となるためメンバー全員が本気で、放課後や休みの日にスタジオをとって練習してきました。7人それぞれの癖だったりを生かすために日々研究をして本番までに完璧に踊れるよう頑張ります。 Amuletのコンセプトは他のチームにも負けないカッコよくて普段と違ったギャップを見せることです。 Amuletのことを知らない人はたくさんいらっしゃると思いますが私達は1日限りのアイドルだと思って全力で頑張るので、みんなも掛け声などをして盛り上がって行きましょう！！ Amuletを知らない人でも大歓迎なのでぜひ見に来てください。よろしくお願いします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Amulet-Amulet.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Amulet-Amulet.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "Amulet",
+      "null"
+    ]
+  },
+  "304": {
+    "id": "304",
+    "type": "3",
+    "projectName": "有志ダンス",
+    "organizationName": "ciel",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "24期の女子4人でKPOPを踊ります！かっこいい曲も可愛い曲も披露するのでどんな人でも絶対に最後まで一切飽きずに楽しめます！超絶かっこいいcielをぜひ見に来てください！後悔はさせません！",
+      "long": "KPOPダンスを高二女子四人で披露します！ かっこい曲がメインですが可愛い曲も何曲か披露します！有名な曲ももちろんあるのでKPOPをあまり知らない人でも〜〜。 メンバー全員にとって最後の開発で、KPOPダンスの魅せ方や〜〜〜もたくさん〜して作り上げました、 そして衣装も統一感あってかっこかわいいのでそこも注目してくれるとうれしいです^_^ 絶対にどんな人でも一切飽きずに最後まで楽しめるのでぜひ来てください！ 絶対に後悔はさせません😌 Cielメンバーと一緒に開発を盛り上げましょう～！♡"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ciel-有志ダンス.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ciel-有志ダンス.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "ciel",
+      "null"
+    ]
+  },
+  "305": {
+    "id": "305",
+    "type": "3",
+    "projectName": "DAY DREAM",
+    "organizationName": "DAY DREAM",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "八人でダンスを踊るのでぜひ見に来てください！",
+      "long": "みなさんこんにちは！DAY DREAMです。僕たちDAY DREAMは8人グループで、主に7人の曲と8人の曲のk-popのダンスのカバーを披露させていただきます！k-popをあまり知らない人でも絶対楽しめると思います！5年生は開智での最後の行事。みなさんを楽しませることはもちろん、僕たちも全力で楽しませていただきます☺︎そして、僕たちはこの日のために半年間全てをここに注いできました。メンバー全員で何度も練習を積み重ねてきたパフォーマンス。綺麗に揃えたダンスと開発に対するやる気だけは他のどのグループにも負けません！！最初で最後のステージ、頑張ります！💪　当日見に来てくださるみなさん、僕たちと一緒に全力で会場を盛り上げ、最高の時間にしましょう！ぜひ見に来て下さい！よろしくお願いします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/DAY DREAM-DAY DREAM.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/DAY DREAM-DAY DREAM.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "DAY DREAM",
+      "null"
+    ]
+  },
+  "306": {
+    "id": "306",
+    "type": "3",
+    "projectName": "DA☆さいたまアリス18th",
+    "organizationName": "Da☆さいたまアリス",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "18期ダ⭐︎さいたまアリスです！",
+      "long": "18期ダ⭐︎さいたまアリスです🐰💘 私達は今年で18年目となる開智唯一の伝統ダンスグループです。 今年は24期、25期の7人のメンバーです。 KPOPだけでなく、JPOPや洋楽などさまざまなジャンルを15曲踊るのでたくさんの方に楽しんでいただけると思います。 他のグループにはないポンポンを使ったパフォーマンスも見どころです💗 毎年変えているオリジナルTシャツのデザインもぜひ見てみてください！ ワンピースやブラウスなどの衣装替えにも注目です👀 コールや掛け声などでみなさんも一緒に参加してくれると嬉しいです！！ 会場みんなで楽しめるステージを作るために頑張るのでぜひ見に来てください！ メンバー全員ステージで待ってます❣️"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Da☆さいたまアリス-DA☆さいたまアリス18th.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Da☆さいたまアリス-DA☆さいたまアリス18th.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "Da☆さいたまアリス",
+      "null"
+    ]
+  },
+  "307": {
+    "id": "307",
+    "type": "3",
+    "projectName": "Fleur",
+    "organizationName": "Fleur",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "24期,25期,26期の7人で踊ります！幅広い系統のダンスを踊るので是非見に来てください",
+      "long": "学年を超えて仲が良いバトンチア部のメンバーで構成された有志ダンスグループ、「Fleur」（フルール）です！！Fleurはフランス語で花という意味を持つことから、7人のメンバーそれぞれの個性を活かして、花のように美しくパフォーマンス出来るように日々意識して練習しています！テンポがよく、リズムに乗りやすい曲ばかりなので、絶対に楽しんで貰えること間違いなしです！曲に合わせた衣装にもご注目ください！名前やかわいい、かっこいい！など声援を頂けると嬉しいです！ファンサいっぱいします♡より良いものを見せられるように沢山練習して、頑張りますので是非お越しください！メンバー一同お待ちしています！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Fleur-Fleur.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Fleur-Fleur.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "Fleur",
+      "null"
+    ]
+  },
+  "308": {
+    "id": "308",
+    "type": "3",
+    "projectName": "ダンス",
+    "organizationName": "JOYFUL",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "ダンスのクオリティーはどのこグループにも負けませんので、是非見にきてください！",
+      "long": "こんにちは、JOYFULです！私たちは4年生、3人で構成されたダンスグループです。昨年の開発でも踊らせていただき体育館の3分の1を埋めるほどのお客さんが見にきてくださいました。本当にありがとうございます！今年は去年以上にダンスのパフォーマンス力を上げました。皆さんに楽しんでいただけるよう、精一杯頑張ります！またインスタグラムで「JOYFUL」と検索していただくと、私たちが過去に踊った動画も投稿していますので、是非ご覧ください！ダンスの技術･表情･表現力のすべてで、皆さんを私たちの虜にしてみせます。開発をより盛り上げるため頑張りますので、応援よろしくお願いします！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/JOYFUL-ダンス.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/JOYFUL-ダンス.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "JOYFUL",
+      "null"
+    ]
+  },
+  "309": {
+    "id": "309",
+    "type": "3",
+    "projectName": "Lovey-Dovey",
+    "organizationName": "Lovey-Dovey",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "無料で見れるなんて幸せ",
+      "long": "見て、聞いて、楽しいのがLovey-Dovey 私たちLovey-Dovey(ラビダビ)は枠になんか囚われません! 曲によって雰囲気や衣装、メンバーも大きく変えることで、飽きるどころか、見れば見るほど惹かれる構成になっています。  KｰPOPだけにはとどまらず、様々なジャンルの曲をカバーするのでご期待ください。 また、ダンスリーダーや副団長、部長、生徒会メンバーなど多方面で活躍している人が集まったチームであり、意外な一面を見られるかもしれません 知人がいない、KｰPOPに詳しくない、それを理由に見ないなんてもったいない!ぜひご覧下さい。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Lovey-Dovey-Lovey-Dovey.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Lovey-Dovey-Lovey-Dovey.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "Lovey-Dovey",
+      "null"
+    ]
+  },
+  "310": {
+    "id": "310",
+    "type": "3",
+    "projectName": "ダンス",
+    "organizationName": "m∞n",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "KICエンターテイメント所属の8人ガールズグループm∞nです🌙",
+      "long": "하나、둘 、셋 One in a million 안녕하세요！moon 입니다 私たちは5年生の女子8人で構成しているグループです！！人気韓国グループの人気曲を私たちが開智のアイドルとして皆さんにお届けします！！ 可愛い系統からかっこいい系統まで8人全員で踊る曲 と4人ずつのユニットで踊る曲と計5曲披露させて頂きます！！ 私たちの開発ラストステージ、Are you ready to be??? "
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/m∞n-ダンス.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/m∞n-ダンス.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "m∞n",
+      "null"
+    ]
+  },
+  "311": {
+    "id": "311",
+    "type": "3",
+    "projectName": "ダンス",
+    "organizationName": "Prism",
+    "location": [
+      {
+        "floor": "null",
+        "name": "体育館",
+        "id": "i体育館"
+      }
+    ],
+    "description": {
+      "short": "一緒にhotな夏を盛り上げましょう💗是非来てください！",
+      "long": "こんにちは！Prismです。prismの意味は、よく磨かれた透明な結晶という意味です。総合部の時から再結成したグループなので、そこから成長し、磨かれた私たちという意味が込められています💎メンバーで沢山話し合い細部までこだわりました！努力の結晶をぜひ見に来てください！一緒にhotな夏を盛り上げましょう💗"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/Prism-ダンス.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/Prism-ダンス.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "Prism",
+      "null"
+    ]
+  },
+  "312": {
+    "id": "312",
+    "type": "3",
+    "projectName": "エクストラトピカル!!!",
+    "organizationName": "ディベート部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "吹き抜け",
+        "id": "i吹き抜け"
+      }
+    ],
+    "description": {
+      "short": "試合を行うので興味がある方は是非見に来て下さい！",
+      "long": "こんにちは！ディベート部です。ディベートはある論題について2つのサイドに分かれてジャッジを説得する競技です。ディベートと聞いて多くの方が思い浮かべるのは「夏と冬のどちらが良いか」のような即興ディベートだと思いますが、私たちは主に全国大会に向けて1年間同じ論題について議論する、アカデミックディベートというものを行っています。今年の論題は中学は「日本は国政選挙においてネット投票を導入すべきである。是か非か」で、高校は「日本は内閣による衆議院の解散権を制限すべきである。是か非か」です。中学3位･高校ベスト8という結果を残すことが出来ました！吹き抜けで上記の中学論題の試合を行うので、興味のある方は是非見に来てください！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/ディベート部-エクストラトピカル!!!.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/ディベート部-エクストラトピカル!!!.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "ディベート部",
+      "null"
+    ]
+  },
+  "313": {
+    "id": "313",
+    "type": "3",
+    "projectName": "美女と野獣",
+    "organizationName": "演劇部",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "これは、真実の愛の物語。",
+      "long": "「パパ、私って変わってるかしら？」「大事なのは外見じゃない、心じゃ。」\n読書好きの風変りな娘、ベル。ある日ベルは、魔女によって恐ろしい姿に変えられた野獣に捕まった父の代わりに城で暮らすことに。\n城には、同じく姿を変えられてしまった、　女性にモテモテ、歌って踊れる蝋燭立て・美味しいお茶でおもてなし、心優しいポット・ユーモアたっぷり、置時計の執事長・恋してキラキラなほうきの乙女　など、個性あふれる召使い達も登場！　\n一体どうすれば野獣は真実の姿に戻れるのでしょうか。\n歌とダンス、バイオリンの生演奏で、あなたを物語の世界へ誘います。\n－人は愛で生まれ変わる－"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/演劇部-美女と野獣.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/演劇部-美女と野獣.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "演劇部",
+      "null"
+    ]
+  },
+  "314": {
+    "id": "314",
+    "type": "3",
+    "projectName": "赤い靴",
+    "organizationName": "3年バレエ団",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "童話の「赤い靴」をリメイクし、バレエで表現します。",
+      "long": "主人公である少女は親友から貰った赤い靴を敵国の兵士に取られてしまう。取り返そうと追いかけたら、殺されそうになったのを庇った親友が､､､\n\nこの作品は童話である赤い靴をリメイクしたバレエ作品になってます。\n赤い靴がもともと少し怖いお話なので、怖いところを少し減らしながら、童話の本来の目的であろう、教育的な部分を大事にし、リメイクしました。バレエにもっと興味を持ってもらいたいと思い、誰でも見やすく、ハマれるようなものにしたいと思ったのが、きっかけです。\nこの作品をきっかけに、バレエに興味を持ってくれる人が一人でも増えたらとっても嬉しいです。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/3年バレエ団-赤い靴.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/3年バレエ団-赤い靴.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "3年バレエ団",
+      "null"
+    ]
+  },
+  "315": {
+    "id": "315",
+    "type": "3",
+    "projectName": "あずきなこ",
+    "organizationName": "あずきなこ",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "日本古来の「和」を伝えたいという思いから、和傘や扇子などを用いて24期生6人で「和」と「現代」を融合させたダンスを踊ります。",
+      "long": "こんにちは、あずきなこです！ 24期生六人で袴を着て扇子や和傘を持って、日本特有の「和」と、「現代」を組み合わせたダンスを踊ります。 これまでにあまりないコンセプトですが、皆さんを最初から最後まで楽しませる自信があります。 盛り上がる曲や、みんなが知ってる曲など、計七曲踊ります！ ダンス経験もない中私達なりにたくさん練習しました。本番盛り上げてくれると嬉しいです！ 自分たちで振り付けた曲もあるので、少しでも興味を持った人は是非見に来てください！！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/あずきなこ-あずきなこ.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/あずきなこ-あずきなこ.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "あずきなこ",
+      "null"
+    ]
+  },
+  "316": {
+    "id": "316",
+    "type": "3",
+    "projectName": "dipper",
+    "organizationName": "dipper",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "開発史上最高峰に上手いダンスをお見せします。",
+      "long": "こんにちはdipperです！僕たちは約1年間、全力でこのダンス企画を準備してきました。「dipper」は北斗七星を意味し、メンバー7人それぞれがグループの一翼を担い、星のように輝こうという思いを込めています。個性が光るダンススタイルや表情、そして衣装にも注目です♪\n\n今回は、主に男性のKpopを踊ります。BTSやStray Kidsといった有名なものから最新曲まで、全10曲を厳選し、バリエーション豊かなセットリストにしました。Kpopに詳しくない方でも楽しめるよう、曲順にもこだわり、様々な雰囲気を味わえる構成にしています。シンクロの美しさや力強いパフォーマンスに、目が離せなくなること間違いなしです！\n\n誰にも負けない自信を持ってステージに立ちますので、一緒に最高の時間を過ごしましょう！ぜひ声援を送っていただけると嬉しいです♡\n\nご来場心よりお待ちしています！"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/dipper-dipper.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/dipper-dipper.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "dipper",
+      "null"
+    ]
+  },
+  "317": {
+    "id": "317",
+    "type": "3",
+    "projectName": "Kaichi School Musical",
+    "organizationName": "5E",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "青春劇！是非見に来てください！",
+      "long": "10代は、あらゆる可能性に満ちている時代である、と大人は言う。一方で10代には10代特有の問題や苦しさがあり、そんな夢の時代を生きているという感覚は、ほとんどないかもしれない。 しかし、勉強も部活も恋愛も、本気で向き合う。これが許されるのは、青春時代だ。 5年E組では青春をテーマとした劇を行う。主人公はバスケ部のキャプテンとして大会での活躍を期待されている一方、あるきっかけで密かにミュージカルに興味を抱く。葛藤を持ちながらも、自分の選んだ道を進んでいく― 私達も最後の開智発表会を良い思い出にすべく、この劇を作りあげました。是非、お越しください。劇を楽しんで頂きたいので、数学の小テストは、今回はなし。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/5E-Kaichi School Musical.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/5E-Kaichi School Musical.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "5E",
+      "null"
+    ]
+  },
+  "318": {
+    "id": "318",
+    "type": "3",
+    "projectName": "あーしら青春謳歌中‼️",
+    "organizationName": "あーしら青春謳歌中‼️",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "みんなが知っている曲で、見るだけではなく観客側の人も一緒に踊れてみんなで楽しめるダンスをパフォーマンスします！ぜひ見に来てください！",
+      "long": "私たち「あーしら青春謳歌中‼️」は、男女4人ずつのグループです。一人一人個性のある青春を送って来て、最後の文化祭という舞台でみんなと一緒に最高の思い出を作ろうという思いで作られました。ジャンボリ・ミッキー、男の勲章など懐かしい曲や、定番の曲、みんなが知っている曲で見るだけではなく観客側の人も一緒に踊れてみんなで楽しめるダンスをパフォーマンスするのでぜひ、来て掛け声など踊ったりして一緒に楽しい文化祭を作り、青春を謳歌しましょう‼️"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/あーしら青春謳歌中‼️-あーしら青春謳歌中‼️.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/あーしら青春謳歌中‼️-あーしら青春謳歌中‼️.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "あーしら青春謳歌中‼️",
+      "null"
+    ]
+  },
+  "319": {
+    "id": "319",
+    "type": "3",
+    "projectName": "aegis",
+    "organizationName": "aegis",
+    "location": [
+      {
+        "floor": "null",
+        "name": "プラザ",
+        "id": "iプラザ"
+      }
+    ],
+    "description": {
+      "short": "aegis2年目にして最後のステージ、絶対見に来てください！（フォロー待ってます:)@aeg.is23）",
+      "long": "突然なんですけど，イージスって知ってますか。まあ去年あんなに大盛況だったので知らないわけないと思うんですけど、一応説明すると、まあKPOP踊ってるんですよね。合わせて11曲も踊るらしいんですけど、それってすごくないですか。しかもメンバー9人全員かわいいんですよね。それだけでもう十分だと思うんですけど、唯一去年と変わらず同じメンバーでやってて団結力半端ない上に、他のどの有志団体よりも早く練習始めててすごい熱心なんですよねすごすぎませんか。それなのに、シフトが被って行けないとか、それってあなたの感想ですよね？全員高2なんでこれが最後のステージらしいんですよね。これ見に行かないとかちょっとどうなのかなって思いますね絶対来てください。"
+    },
+    "icon": {
+      "small": "https://kaichi-fes.jp/2024/projecticon/aegis-aegis.webp",
+      "full": "https://kaichi-fes.jp/2024/projecticon/aegis-aegis.webp"
+    },
+    "introduceImages": [],
+    "snsAccount": [],
+    "isHaunted": false,
+    "isFoodVendor": false,
+    "isStage": true,
+    "isOrganizationExist": true,
+    "tag": [
+      "舞台",
+      "aegis",
+      "null"
+    ]
   }
-]
+}
