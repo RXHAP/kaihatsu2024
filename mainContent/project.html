@@ -6,9 +6,26 @@
 </head>
 <body>
   <h1>企画一覧</h1>
-  <button>教室企画</button>
-  <button>食販企画</button>
-  <button>舞台企画</button>
-  <button>音楽企画</button>
+  <div class="container-fluid">
+    <div class="row justify-content-center">
+      <div class="col-3">
+        <button id="room" style="width:90%; height:70px; margin-bottom:30px;">教室企画</button>
+      </div>
+      <div class="col-3">
+        <button id="eat" style="width:90%; height:70px; margin-bottom:30px;">食販企画</button>
+      </div>
+      <div class="col-3">
+        <button id="stage" style="width:90%; height:70px; margin-bottom:30px;">舞台企画</button>
+      </div>
+      <div class="col-3">
+        <button id="music" style="width:90%; height:70px; margin-bottom:30px;">音楽企画</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row" id="projectList">
+    </div>
+  </div>
 </body>
 </html>

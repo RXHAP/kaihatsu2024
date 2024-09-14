@@ -47,7 +47,59 @@ async function getTimetable(day) {
 }
 
 
+function setProject() {
+  var projectList = document.getElementById("projectList")
+  if (projectevent != 3) {
+    //console.log("addeventlistener")
+    document.getElementById("room").addEventListener("click", function(){
+      projectList.innerHTML = roomList;
+    })
+    document.getElementById("eat").addEventListener("click", function(){
+      projectList.innerHTML = eatList;
+    })
+    document.getElementById("stage").addEventListener("click", function(){
+      projectList.innerHTML = stageList;
+    })
+    document.getElementById("music").addEventListener("click", function(){
+      projectList.innerHTML = musicList;
+    })
+    projectevent = 1
+  }
+  fetch("https://kaichi-fes.jp/2024/jsonfile.json")
+    .then(Response => Response.json())
+    .then(data => {
+      //console.log(data)
+      for (var id in data) {
+        //console.log(id)
+        if (data[id]["tag"][0] == "クラス") {
+          if (data[id]["isFoodVendor"] == true) {
+            //console.log("Food:" + data[id]["projectName"])
+            eatList += `<div class="col-sm-4" style="border:2px solid; border-color:white;"><h3 class="underline no-space">`+ data[id]["projectName"] +`</h3><h4 class="no-space">`+ data[id]["organizationName"] +`</h4><p>`+ data[id]["description"]["long"] +`</p></div>`
+          }
+          else {
+            //console.log("Room:" + data[id]["projectName"])
+            roomList += `<div class="col-sm-4" style="border:2px solid; border-color:white;"><h3 class="underline no-space">`+ data[id]["projectName"] +`</h3><h4 class="no-space">`+ data[id]["organizationName"] +`</h4><p>`+ data[id]["description"]["long"] +`</p></div>`
+          }
+        }
+        else if (data[id]["tag"][0] == "音楽") {
+          //console.log("Music:" + data[id]["projectName"])
+          musicList += `<div class="col-sm-4" style="border:2px solid; border-color:white;"><h3 class="underline no-space">`+ data[id]["projectName"] +`</h3><h4 class="no-space">`+ data[id]["organizationName"] +`</h4><p>`+ data[id]["description"]["long"] +`</p></div>`
+        }
+        else if (data[id]["tag"][0] == "舞台") {
+          //console.log("Stage:" + data[id]["projectName"])
+          stageList += `<div class="col-sm-4" style="border:2px solid; border-color:white;"><h3 class="underline no-space">`+ data[id]["projectName"] +`</h3><h4 class="no-space">`+ data[id]["organizationName"] +`</h4><p>`+ data[id]["description"]["long"] +`</p></div>`
+        }
+      }
+      //console.log(roomList)
+      projectList.innerHTML = roomList;
+    })
+}
+
+
 // 変数とか要素の指定
+var roomList, stageList, musicList, eatList = ""
+var projectevent = 0
+
 var eventtime = 0;
 var mainContent = document.getElementById("main");
 var loadcontent = location.pathname.split('/');
@@ -76,6 +128,13 @@ $.ajax({
       }
       if (location.pathname.split("/")[2] == "timetable") {
         getTimetable("day1");
+      }
+      if (location.pathname.split("/")[2] == "project") {
+        roomList = ""
+        stageList = ""
+        musicList = ""
+        eatList = ""
+        setProject();
       }
     }
   },
@@ -109,6 +168,13 @@ $(".nav-link").click(function (event) {
         }
         if (location.pathname.split("/")[2] == "timetable") {
           getTimetable("day1");
+        }
+        if (location.pathname.split("/")[2] == "project") {
+          roomList = ""
+          stageList = ""
+          musicList = ""
+          eatList = ""
+          setProject();
         }
       },
       error: function () {
@@ -170,6 +236,13 @@ window.addEventListener("popstate", function (e) {
         }
         if (location.pathname.split("/")[2] == "timetable") {
           getTimetable("day1");
+        }
+        if (location.pathname.split("/")[2] == "project") {
+          roomList = ""
+          stageList = ""
+          musicList = ""
+          eatList = ""
+          setProject();
         }
       },
       error: function () {

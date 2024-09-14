@@ -10,44 +10,5 @@ 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
 [[],[]]
 
 
-@app.route("/api/<id>/voted/<atr>/<times>/<room1>/<room2>/<room3>/<stage1>/<stage2>/<stage3>/<music1>/<music2>/<music3>/<eat>/<wall>")
-def id_check_update(id, atr, times, room1, room2, room3, stage1, stage2, stage3, music1, music2, music3, eat, wall):
-  connector = mysql.connector.connect(
-    host="localhost",
-    user="*********",
-    password="*********",
-    database="*********"
-  )
-  cursor = connector.cursor()
-  sql = "select id, isVoted from vote_check where id="+str(id)
-  cursor.execute(sql)
-  result = cursor.fetchone()
-
-  if result == None:
-    cursor.close()
-    connector.close()
-    return "そんなIDねえよ うるせえよ"
-  else:
-    if result[1] == 0:
-      cursor.execute("UPDATE vote_check SET attribute = '"+ str(atr) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET times = '"+ str(times) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET room1 = '"+ str(room1) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET room2 = '"+ str(room2) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET room3 = '"+ str(room3) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET stage1 = '"+ str(stage1) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET stage2 = '"+ str(stage2) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET stage3 = '"+ str(stage3) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET music1 = '"+ str(music1) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET music2 = '"+ str(music2) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET music3 = '"+ str(music3) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET eat = '"+ str(eat) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET wall = '"+ str(wall) +"' WHERE id = "+str(id))
-      cursor.execute("UPDATE vote_check SET isVoted = 1 WHERE id = "+str(id))
-      connector.commit()
-      cursor.close()
-      connector.close()
-      return "Value Changed"
-    else:
-      cursor.close()
-      connector.close()
-      return "Voted ID"
+囲碁将棋部 407C -> 411
+国際教育 407B ->309B
